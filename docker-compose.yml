@@ -1,0 +1,91 @@
+version: '3.8'
+
+services:
+  # Forecast Agent
+  forecast-agent:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.forecast
+    ports:
+      - "8004:8004"
+    environment:
+      - FORECAST_AGENT_PORT=8004
+      - DATABASE_URL=sqlite:////app/data/databases/warehouse.db
+    volumes:
+      - ./data:/app/data
+      - ./ml/models:/app/ml/models
+    networks:
+      - warehouse-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8004/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Supply Agent
+  supply-agent:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.supply
+    ports:
+      - "8005:8005"
+    environment:
+      - SUPPLY_AGENT_PORT=8005
+      - DATABASE_URL=sqlite:////app/data/databases/warehouse.db
+    volumes:
+      - ./data:/app/data
+    networks:
+      - warehouse-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8005/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Unified Orchestrator
+  unified-orchestrator:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.orchestrator
+    ports:
+      - "9000:9000"
+    environment:
+      - ORCHESTRATOR_PORT=9000
+      - DATABASE_URL=sqlite:////app/data/databases/warehouse.db
+      - FORECAST_AGENT_URL=http://forecast-agent:8004
+      - SUPPLY_AGENT_URL=http://supply-agent:8005
+    volumes:
+      - ./data:/app/data
+      - ./ml/models:/app/ml/models
+    depends_on:
+      - forecast-agent
+      - supply-agent
+    networks:
+      - warehouse-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Frontend (optional)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfile.frontend
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:9000
+    depends_on:
+      - unified-orchestrator
+    networks:
+      - warehouse-network
+
+networks:
+  warehouse-network:
+    driver: bridge
+
+volumes:
+  warehouse-data:
+  warehouse-models:

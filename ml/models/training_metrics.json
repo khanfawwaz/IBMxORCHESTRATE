@@ -1,0 +1,502 @@
+[
+  {
+    "sku": "WH-PC-0455",
+    "location": "Los Angeles",
+    "training_samples": 421,
+    "test_samples": 106,
+    "mape": 0.7287180985853027,
+    "rmse": 4.282397854227667,
+    "trained_at": "2025-11-23T21:28:00.306251",
+    "model_file": "prophet_WH-PC-0455_Los_Angeles.pkl"
+  },
+  {
+    "sku": "WH-PC-0493",
+    "location": "Houston",
+    "training_samples": 418,
+    "test_samples": 105,
+    "mape": 0.972074527212493,
+    "rmse": 4.794815864652205,
+    "trained_at": "2025-11-23T21:28:00.706563",
+    "model_file": "prophet_WH-PC-0493_Houston.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "Los Angeles",
+    "training_samples": 420,
+    "test_samples": 106,
+    "mape": 0.8509437026129191,
+    "rmse": 4.165382084997488,
+    "trained_at": "2025-11-23T21:28:01.094880",
+    "model_file": "prophet_WH-PC-0498_Los_Angeles.pkl"
+  },
+  {
+    "sku": "WH-PS-0361",
+    "location": "San Jose",
+    "training_samples": 410,
+    "test_samples": 103,
+    "mape": 0.9157063598167525,
+    "rmse": 4.740887635928711,
+    "trained_at": "2025-11-23T21:28:01.493132",
+    "model_file": "prophet_WH-PS-0361_San_Jose.pkl"
+  },
+  {
+    "sku": "WH-H-0406",
+    "location": "San Diego",
+    "training_samples": 403,
+    "test_samples": 101,
+    "mape": 0.7301675598559658,
+    "rmse": 3.91578620512452,
+    "trained_at": "2025-11-23T21:28:01.862255",
+    "model_file": "prophet_WH-H-0406_San_Diego.pkl"
+  },
+  {
+    "sku": "WH-FF-0226",
+    "location": "Philadelphia",
+    "training_samples": 409,
+    "test_samples": 103,
+    "mape": 0.7650714413867536,
+    "rmse": 5.133260338216872,
+    "trained_at": "2025-11-23T21:28:02.347272",
+    "model_file": "prophet_WH-FF-0226_Philadelphia.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "Austin",
+    "training_samples": 410,
+    "test_samples": 103,
+    "mape": 0.7261380323580909,
+    "rmse": 3.9896554317167254,
+    "trained_at": "2025-11-23T21:28:02.733178",
+    "model_file": "prophet_WH-PC-0498_Austin.pkl"
+  },
+  {
+    "sku": "WH-PS-0361",
+    "location": "Jacksonville",
+    "training_samples": 404,
+    "test_samples": 102,
+    "mape": 0.9142342465709369,
+    "rmse": 4.244003308288988,
+    "trained_at": "2025-11-23T21:28:03.129111",
+    "model_file": "prophet_WH-PS-0361_Jacksonville.pkl"
+  },
+  {
+    "sku": "WH-PC-0455",
+    "location": "Chicago",
+    "training_samples": 405,
+    "test_samples": 102,
+    "mape": 0.8253171106933942,
+    "rmse": 4.277100455400503,
+    "trained_at": "2025-11-23T21:28:03.515684",
+    "model_file": "prophet_WH-PC-0455_Chicago.pkl"
+  },
+  {
+    "sku": "WH-S&C-0305",
+    "location": "Jacksonville",
+    "training_samples": 412,
+    "test_samples": 104,
+    "mape": 0.7697865381093165,
+    "rmse": 4.716335029730312,
+    "trained_at": "2025-11-23T21:28:03.905376",
+    "model_file": "prophet_WH-S&C-0305_Jacksonville.pkl"
+  },
+  {
+    "sku": "WH-S&C-0312",
+    "location": "Fort Worth",
+    "training_samples": 416,
+    "test_samples": 105,
+    "mape": 0.913298426591459,
+    "rmse": 4.345315253856702,
+    "trained_at": "2025-11-23T21:28:04.288839",
+    "model_file": "prophet_WH-S&C-0312_Fort_Worth.pkl"
+  },
+  {
+    "sku": "WH-FF-0240",
+    "location": "San Jose",
+    "training_samples": 416,
+    "test_samples": 105,
+    "mape": 0.713159691912658,
+    "rmse": 3.977962694329381,
+    "trained_at": "2025-11-23T21:28:04.715151",
+    "model_file": "prophet_WH-FF-0240_San_Jose.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "Houston",
+    "training_samples": 415,
+    "test_samples": 104,
+    "mape": 0.8118842873410436,
+    "rmse": 4.494518342666069,
+    "trained_at": "2025-11-23T21:28:05.123759",
+    "model_file": "prophet_WH-PC-0498_Houston.pkl"
+  },
+  {
+    "sku": "WH-B-0278",
+    "location": "Phoenix",
+    "training_samples": 414,
+    "test_samples": 104,
+    "mape": 0.8067557577573817,
+    "rmse": 4.311206575724646,
+    "trained_at": "2025-11-23T21:28:05.504455",
+    "model_file": "prophet_WH-B-0278_Phoenix.pkl"
+  },
+  {
+    "sku": "WH-FF-0226",
+    "location": "Dallas",
+    "training_samples": 414,
+    "test_samples": 104,
+    "mape": 0.9229811141544205,
+    "rmse": 4.866647073898871,
+    "trained_at": "2025-11-23T21:28:05.912481",
+    "model_file": "prophet_WH-FF-0226_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "New York",
+    "training_samples": 411,
+    "test_samples": 103,
+    "mape": 0.9925265358573843,
+    "rmse": 4.578869597163425,
+    "trained_at": "2025-11-23T21:28:06.272343",
+    "model_file": "prophet_WH-PC-0498_New_York.pkl"
+  },
+  {
+    "sku": "WH-PC-0493",
+    "location": "Columbus",
+    "training_samples": 416,
+    "test_samples": 104,
+    "mape": 0.7530892889585616,
+    "rmse": 4.7171578293708425,
+    "trained_at": "2025-11-23T21:28:06.648406",
+    "model_file": "prophet_WH-PC-0493_Columbus.pkl"
+  },
+  {
+    "sku": "WH-S&C-0311",
+    "location": "San Diego",
+    "training_samples": 408,
+    "test_samples": 103,
+    "mape": 0.8002339943096335,
+    "rmse": 4.189146435119603,
+    "trained_at": "2025-11-23T21:28:07.053477",
+    "model_file": "prophet_WH-S&C-0311_San_Diego.pkl"
+  },
+  {
+    "sku": "WH-S&C-0312",
+    "location": "Houston",
+    "training_samples": 414,
+    "test_samples": 104,
+    "mape": 0.862075790574539,
+    "rmse": 5.20003997179335,
+    "trained_at": "2025-11-23T21:28:07.427986",
+    "model_file": "prophet_WH-S&C-0312_Houston.pkl"
+  },
+  {
+    "sku": "WH-PC-0493",
+    "location": "Fort Worth",
+    "training_samples": 419,
+    "test_samples": 105,
+    "mape": 0.8809193647948919,
+    "rmse": 4.606146603885239,
+    "trained_at": "2025-11-23T21:28:07.800507",
+    "model_file": "prophet_WH-PC-0493_Fort_Worth.pkl"
+  },
+  {
+    "sku": "WH-FF-0229",
+    "location": "Dallas",
+    "training_samples": 419,
+    "test_samples": 105,
+    "mape": 0.821037393314038,
+    "rmse": 4.766090800881511,
+    "trained_at": "2025-11-23T21:28:08.172252",
+    "model_file": "prophet_WH-FF-0229_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "San Diego",
+    "training_samples": 400,
+    "test_samples": 100,
+    "mape": 0.6030297419168638,
+    "rmse": 4.475595983869537,
+    "trained_at": "2025-11-23T21:28:08.674102",
+    "model_file": "prophet_WH-PC-0498_San_Diego.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "Dallas",
+    "training_samples": 401,
+    "test_samples": 101,
+    "mape": 0.8690078147128303,
+    "rmse": 4.917975340070714,
+    "trained_at": "2025-11-23T21:28:09.055381",
+    "model_file": "prophet_WH-PC-0498_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PS-0365",
+    "location": "Charlotte",
+    "training_samples": 411,
+    "test_samples": 103,
+    "mape": 0.7903585724708527,
+    "rmse": 4.539191188866158,
+    "trained_at": "2025-11-23T21:28:09.438079",
+    "model_file": "prophet_WH-PS-0365_Charlotte.pkl"
+  },
+  {
+    "sku": "WH-S&C-0305",
+    "location": "Columbus",
+    "training_samples": 397,
+    "test_samples": 100,
+    "mape": 0.8715265252301837,
+    "rmse": 4.841561463884994,
+    "trained_at": "2025-11-23T21:28:09.834476",
+    "model_file": "prophet_WH-S&C-0305_Columbus.pkl"
+  },
+  {
+    "sku": "WH-FF-0212",
+    "location": "Los Angeles",
+    "training_samples": 392,
+    "test_samples": 98,
+    "mape": 0.7865695959061763,
+    "rmse": 4.77725867892032,
+    "trained_at": "2025-11-23T21:28:10.211749",
+    "model_file": "prophet_WH-FF-0212_Los_Angeles.pkl"
+  },
+  {
+    "sku": "WH-PC-0455",
+    "location": "Philadelphia",
+    "training_samples": 400,
+    "test_samples": 101,
+    "mape": 0.7485106453301612,
+    "rmse": 4.919167627382927,
+    "trained_at": "2025-11-23T21:28:10.558192",
+    "model_file": "prophet_WH-PC-0455_Philadelphia.pkl"
+  },
+  {
+    "sku": "WH-PC-0466",
+    "location": "Dallas",
+    "training_samples": 397,
+    "test_samples": 100,
+    "mape": 0.6566166783714046,
+    "rmse": 4.981823962956944,
+    "trained_at": "2025-11-23T21:28:10.922619",
+    "model_file": "prophet_WH-PC-0466_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PS-0365",
+    "location": "Columbus",
+    "training_samples": 400,
+    "test_samples": 101,
+    "mape": 0.9337984420996656,
+    "rmse": 4.890688583015193,
+    "trained_at": "2025-11-23T21:28:11.287039",
+    "model_file": "prophet_WH-PS-0365_Columbus.pkl"
+  },
+  {
+    "sku": "WH-S&C-0312",
+    "location": "Phoenix",
+    "training_samples": 397,
+    "test_samples": 100,
+    "mape": 0.8678955014490392,
+    "rmse": 5.443999688635855,
+    "trained_at": "2025-11-23T21:28:11.652472",
+    "model_file": "prophet_WH-S&C-0312_Phoenix.pkl"
+  },
+  {
+    "sku": "WH-S&C-0327",
+    "location": "Austin",
+    "training_samples": 408,
+    "test_samples": 103,
+    "mape": 0.7355388633793324,
+    "rmse": 5.160221226817075,
+    "trained_at": "2025-11-23T21:28:12.002764",
+    "model_file": "prophet_WH-S&C-0327_Austin.pkl"
+  },
+  {
+    "sku": "WH-FF-0226",
+    "location": "Los Angeles",
+    "training_samples": 400,
+    "test_samples": 100,
+    "mape": 0.7282856439256412,
+    "rmse": 4.413142759219073,
+    "trained_at": "2025-11-23T21:28:12.372470",
+    "model_file": "prophet_WH-FF-0226_Los_Angeles.pkl"
+  },
+  {
+    "sku": "WH-B-0278",
+    "location": "Houston",
+    "training_samples": 414,
+    "test_samples": 104,
+    "mape": 0.7493152859722968,
+    "rmse": 4.7303634983043725,
+    "trained_at": "2025-11-23T21:28:12.758210",
+    "model_file": "prophet_WH-B-0278_Houston.pkl"
+  },
+  {
+    "sku": "WH-PC-0466",
+    "location": "Jacksonville",
+    "training_samples": 406,
+    "test_samples": 102,
+    "mape": 0.6139116237725548,
+    "rmse": 5.086356871878046,
+    "trained_at": "2025-11-23T21:28:13.126355",
+    "model_file": "prophet_WH-PC-0466_Jacksonville.pkl"
+  },
+  {
+    "sku": "WH-B-0278",
+    "location": "Austin",
+    "training_samples": 410,
+    "test_samples": 103,
+    "mape": 0.9037093150415598,
+    "rmse": 4.661579859962698,
+    "trained_at": "2025-11-23T21:28:13.490170",
+    "model_file": "prophet_WH-B-0278_Austin.pkl"
+  },
+  {
+    "sku": "WH-H-0406",
+    "location": "Dallas",
+    "training_samples": 413,
+    "test_samples": 104,
+    "mape": 0.7550327790063616,
+    "rmse": 4.526120340428689,
+    "trained_at": "2025-11-23T21:28:13.854807",
+    "model_file": "prophet_WH-H-0406_Dallas.pkl"
+  },
+  {
+    "sku": "WH-S&C-0305",
+    "location": "Dallas",
+    "training_samples": 406,
+    "test_samples": 102,
+    "mape": 0.9796635978507743,
+    "rmse": 5.083980049093478,
+    "trained_at": "2025-11-23T21:28:14.202287",
+    "model_file": "prophet_WH-S&C-0305_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PC-0455",
+    "location": "San Diego",
+    "training_samples": 401,
+    "test_samples": 101,
+    "mape": 0.9166662158496444,
+    "rmse": 5.452479805721261,
+    "trained_at": "2025-11-23T21:28:14.586576",
+    "model_file": "prophet_WH-PC-0455_San_Diego.pkl"
+  },
+  {
+    "sku": "WH-S&C-0327",
+    "location": "Phoenix",
+    "training_samples": 404,
+    "test_samples": 101,
+    "mape": 0.7605726908513422,
+    "rmse": 4.63512511466925,
+    "trained_at": "2025-11-23T21:28:14.952659",
+    "model_file": "prophet_WH-S&C-0327_Phoenix.pkl"
+  },
+  {
+    "sku": "WH-H-0401",
+    "location": "Austin",
+    "training_samples": 409,
+    "test_samples": 103,
+    "mape": 0.6078274085541607,
+    "rmse": 4.323421760023278,
+    "trained_at": "2025-11-23T21:28:15.300811",
+    "model_file": "prophet_WH-H-0401_Austin.pkl"
+  },
+  {
+    "sku": "WH-FF-0226",
+    "location": "San Antonio",
+    "training_samples": 401,
+    "test_samples": 101,
+    "mape": 0.6542749450157895,
+    "rmse": 3.9667962278895925,
+    "trained_at": "2025-11-23T21:28:15.657182",
+    "model_file": "prophet_WH-FF-0226_San_Antonio.pkl"
+  },
+  {
+    "sku": "WH-PC-0466",
+    "location": "Houston",
+    "training_samples": 410,
+    "test_samples": 103,
+    "mape": 0.7035455010003289,
+    "rmse": 5.871604177726949,
+    "trained_at": "2025-11-23T21:28:16.029534",
+    "model_file": "prophet_WH-PC-0466_Houston.pkl"
+  },
+  {
+    "sku": "WH-PS-0361",
+    "location": "Dallas",
+    "training_samples": 406,
+    "test_samples": 102,
+    "mape": 0.7669924494150401,
+    "rmse": 4.516887941470054,
+    "trained_at": "2025-11-23T21:28:16.413556",
+    "model_file": "prophet_WH-PS-0361_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PC-0493",
+    "location": "Chicago",
+    "training_samples": 406,
+    "test_samples": 102,
+    "mape": 0.7207915145592625,
+    "rmse": 4.664938795613031,
+    "trained_at": "2025-11-23T21:28:16.818419",
+    "model_file": "prophet_WH-PC-0493_Chicago.pkl"
+  },
+  {
+    "sku": "WH-PC-0455",
+    "location": "Phoenix",
+    "training_samples": 401,
+    "test_samples": 101,
+    "mape": 0.7808044174600214,
+    "rmse": 4.598230783223286,
+    "trained_at": "2025-11-23T21:28:17.216871",
+    "model_file": "prophet_WH-PC-0455_Phoenix.pkl"
+  },
+  {
+    "sku": "WH-FF-0206",
+    "location": "Chicago",
+    "training_samples": 388,
+    "test_samples": 97,
+    "mape": 0.7287985798735809,
+    "rmse": 5.326697675723034,
+    "trained_at": "2025-11-23T21:28:17.640794",
+    "model_file": "prophet_WH-FF-0206_Chicago.pkl"
+  },
+  {
+    "sku": "WH-PS-0361",
+    "location": "Chicago",
+    "training_samples": 408,
+    "test_samples": 103,
+    "mape": 0.7569840119992782,
+    "rmse": 4.396196684982129,
+    "trained_at": "2025-11-23T21:28:18.017174",
+    "model_file": "prophet_WH-PS-0361_Chicago.pkl"
+  },
+  {
+    "sku": "WH-PC-0493",
+    "location": "Charlotte",
+    "training_samples": 414,
+    "test_samples": 104,
+    "mape": 0.8138324031353559,
+    "rmse": 4.391946506298642,
+    "trained_at": "2025-11-23T21:28:18.427301",
+    "model_file": "prophet_WH-PC-0493_Charlotte.pkl"
+  },
+  {
+    "sku": "WH-H-0401",
+    "location": "Dallas",
+    "training_samples": 417,
+    "test_samples": 105,
+    "mape": 0.6339402391011111,
+    "rmse": 5.283918559639313,
+    "trained_at": "2025-11-23T21:28:18.786763",
+    "model_file": "prophet_WH-H-0401_Dallas.pkl"
+  },
+  {
+    "sku": "WH-PC-0498",
+    "location": "San Jose",
+    "training_samples": 400,
+    "test_samples": 101,
+    "mape": 0.7838864209198847,
+    "rmse": 4.882297080878632,
+    "trained_at": "2025-11-23T21:28:19.187533",
+    "model_file": "prophet_WH-PC-0498_San_Jose.pkl"
+  }
+]
