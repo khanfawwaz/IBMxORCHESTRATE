@@ -1,0 +1,501 @@
+sku,product_name,supplier,lead_time_days,current_stock,reorder_point,supplier_reliability,unit_cost,minimum_order_quantity
+WH-FP-0001,Premium Herbs,RegionalWholesale,3,981,294,0.97,6.83,10
+WH-FP-0002,Organic Fruits,CitySuppliers,6,346,103,0.72,6.28,10
+WH-FP-0003,Artisan Fruits,GlobalFoods Inc,5,653,195,0.99,0.86,25
+WH-FP-0004,Traditional Fruits,RegionalWholesale,7,104,31,0.88,5.66,25
+WH-FP-0005,Traditional Fruits,GlobalFoods Inc,5,636,190,0.83,4.12,10
+WH-FP-0006,Premium Herbs,NationalFoods Corp,3,837,251,0.87,6.97,100
+WH-FP-0007,Natural Herbs,NationalFoods Corp,3,978,293,0.99,2.93,50
+WH-FP-0008,Organic Vegetables,CitySuppliers,1,486,145,0.98,3.79,25
+WH-FP-0009,Deluxe Vegetables,NationalFoods Corp,6,709,212,0.84,7.38,50
+WH-FP-0010,Artisan Herbs,FreshSupply Co,3,131,39,0.99,1.26,100
+WH-FP-0011,Natural Herbs,DirectFarm Partners,3,371,111,0.87,5.45,100
+WH-FP-0012,Classic Fruits,LocalProduce Network,2,274,82,0.76,7.09,100
+WH-FP-0013,Organic Fruits,NationalFoods Corp,5,562,168,0.72,3.79,25
+WH-FP-0014,Natural Herbs,LocalProduce Network,1,343,102,0.82,1.97,10
+WH-FP-0015,Deluxe Fruits,RegionalWholesale,1,508,152,0.8,6.5,100
+WH-FP-0016,Fresh Herbs,GlobalFoods Inc,5,581,174,0.74,5.09,10
+WH-FP-0017,Artisan Fruits,NationalFoods Corp,2,329,98,0.86,2.87,10
+WH-FP-0018,Natural Fruits,LocalProduce Network,7,681,204,0.82,7.68,25
+WH-FP-0019,Premium Fruits,PremiumImports LLC,7,670,201,0.82,7.36,10
+WH-FP-0020,Classic Vegetables,GlobalFoods Inc,2,515,154,0.91,8.27,25
+WH-FP-0021,Classic Herbs,FreshSupply Co,1,196,58,0.76,6.11,25
+WH-FP-0022,Fresh Herbs,FreshSupply Co,5,95,28,0.73,2.83,25
+WH-FP-0023,Traditional Herbs,MegaDistributors,6,878,263,0.94,2.81,25
+WH-FP-0024,Special Vegetables,GlobalFoods Inc,5,706,211,0.96,3.95,25
+WH-FP-0025,Gourmet Fruits,PremiumImports LLC,6,240,72,0.73,1.36,100
+WH-FP-0026,Fresh Fruits,GlobalFoods Inc,3,552,165,0.84,7.25,100
+WH-FP-0027,Artisan Herbs,DirectFarm Partners,7,199,59,0.84,3.8,50
+WH-FP-0028,Traditional Herbs,CitySuppliers,2,575,172,0.88,7.83,50
+WH-FP-0029,Organic Herbs,LocalProduce Network,5,719,215,0.93,6.32,25
+WH-FP-0030,Natural Vegetables,CitySuppliers,4,551,165,0.99,1.54,25
+WH-FP-0031,Premium Fruits,RegionalWholesale,5,343,102,0.98,8.61,10
+WH-FP-0032,Fresh Herbs,NationalFoods Corp,5,310,93,0.88,4.87,25
+WH-FP-0033,Traditional Herbs,NationalFoods Corp,1,125,37,0.75,5.72,100
+WH-FP-0034,Fresh Vegetables,DirectFarm Partners,3,320,96,0.8,5.13,25
+WH-FP-0035,Natural Fruits,OceanHarvest Ltd,1,96,28,0.99,4.7,50
+WH-FP-0036,Deluxe Vegetables,NationalFoods Corp,2,752,225,0.97,2.61,100
+WH-FP-0037,Organic Herbs,LocalProduce Network,7,302,90,0.9,6.75,100
+WH-FP-0038,Fresh Herbs,FreshSupply Co,7,169,50,0.98,1.68,10
+WH-FP-0039,Deluxe Herbs,RegionalWholesale,6,356,106,0.76,5.03,50
+WH-FP-0040,Traditional Vegetables,MegaDistributors,1,112,33,0.82,6.94,25
+WH-FP-0041,Artisan Herbs,RegionalWholesale,1,200,60,0.76,8.96,25
+WH-FP-0042,Traditional Vegetables,LocalProduce Network,3,147,44,0.71,4.39,50
+WH-FP-0043,Natural Fruits,DirectFarm Partners,1,193,57,0.87,0.77,50
+WH-FP-0044,Classic Fruits,DirectFarm Partners,1,58,17,0.95,0.66,50
+WH-FP-0045,Premium Fruits,OceanHarvest Ltd,7,264,79,0.9,7.82,100
+WH-FP-0046,Deluxe Herbs,MegaDistributors,5,259,77,0.83,6.22,25
+WH-FP-0047,Special Herbs,DirectFarm Partners,4,141,42,0.97,5.44,100
+WH-FP-0048,Artisan Vegetables,GlobalFoods Inc,4,166,49,0.87,2.2,25
+WH-FP-0049,Natural Herbs,RegionalWholesale,5,719,215,0.97,4.16,50
+WH-FP-0050,Organic Herbs,DirectFarm Partners,4,803,240,0.96,1.11,10
+WH-D&E-0051,Classic Milk,RegionalWholesale,1,544,163,0.72,3.25,10
+WH-D&E-0052,Fresh Cheese,FreshSupply Co,5,683,204,0.71,4.21,10
+WH-D&E-0053,Traditional Milk,PremiumImports LLC,6,698,209,0.8,2.26,100
+WH-D&E-0054,Classic Milk,RegionalWholesale,4,558,167,0.99,2.99,10
+WH-D&E-0055,Artisan Eggs,PremiumImports LLC,1,628,188,0.7,10.94,50
+WH-D&E-0056,Artisan Eggs,GlobalFoods Inc,5,159,47,0.94,4.06,50
+WH-D&E-0057,Traditional Yogurt,RegionalWholesale,4,236,70,0.85,8.35,25
+WH-D&E-0058,Deluxe Cheese,DirectFarm Partners,2,830,249,0.86,3.55,25
+WH-D&E-0059,Natural Milk,PremiumImports LLC,6,510,153,0.86,1.82,50
+WH-D&E-0060,Traditional Eggs,FreshSupply Co,4,52,15,0.88,2.9,100
+WH-D&E-0061,Fresh Milk,NationalFoods Corp,5,290,87,0.89,1.94,25
+WH-D&E-0062,Organic Cheese,GlobalFoods Inc,1,548,164,0.87,11.37,25
+WH-D&E-0063,Special Cheese,DirectFarm Partners,4,724,217,0.92,1.63,50
+WH-D&E-0064,Special Eggs,OceanHarvest Ltd,1,122,36,0.76,7.3,50
+WH-D&E-0065,Natural Yogurt,GlobalFoods Inc,1,91,27,0.96,3.78,50
+WH-D&E-0066,Deluxe Cheese,OceanHarvest Ltd,7,952,285,0.9,6.14,100
+WH-D&E-0067,Special Milk,OceanHarvest Ltd,6,99,29,0.74,11.98,50
+WH-D&E-0068,Classic Milk,GlobalFoods Inc,7,353,105,0.94,6.67,10
+WH-D&E-0069,Organic Yogurt,LocalProduce Network,1,503,150,0.92,10.7,50
+WH-D&E-0070,Gourmet Yogurt,RegionalWholesale,7,550,165,0.9,10.21,100
+WH-D&E-0071,Traditional Milk,RegionalWholesale,3,612,183,0.72,4.43,100
+WH-D&E-0072,Organic Cheese,DirectFarm Partners,5,393,117,0.86,10.81,25
+WH-D&E-0073,Deluxe Cheese,FreshSupply Co,2,537,161,0.7,7.73,25
+WH-D&E-0074,Deluxe Cheese,RegionalWholesale,5,193,57,0.79,6.66,100
+WH-D&E-0075,Artisan Milk,LocalProduce Network,1,731,219,0.97,10.16,50
+WH-D&E-0076,Fresh Milk,PremiumImports LLC,7,739,221,0.91,8.08,100
+WH-D&E-0077,Gourmet Cheese,PremiumImports LLC,3,437,131,0.85,7.16,50
+WH-D&E-0078,Organic Milk,OceanHarvest Ltd,1,424,127,0.93,11.41,100
+WH-D&E-0079,Natural Milk,NationalFoods Corp,6,216,64,0.91,7.49,50
+WH-D&E-0080,Premium Eggs,GlobalFoods Inc,3,343,102,0.74,4.53,100
+WH-D&E-0081,Classic Yogurt,MegaDistributors,7,723,216,0.81,8.4,100
+WH-D&E-0082,Fresh Eggs,LocalProduce Network,7,428,128,0.8,11.2,100
+WH-D&E-0083,Fresh Cheese,LocalProduce Network,2,667,200,0.77,10.72,100
+WH-D&E-0084,Natural Cheese,DirectFarm Partners,2,929,278,0.88,9.65,50
+WH-D&E-0085,Fresh Cheese,GlobalFoods Inc,6,498,149,0.78,9.7,100
+WH-D&E-0086,Premium Eggs,GlobalFoods Inc,5,394,118,0.76,10.47,100
+WH-D&E-0087,Gourmet Cheese,GlobalFoods Inc,5,376,112,0.83,4.97,100
+WH-D&E-0088,Classic Cheese,DirectFarm Partners,7,925,277,0.99,5.5,25
+WH-D&E-0089,Deluxe Milk,NationalFoods Corp,6,896,268,0.74,4.99,10
+WH-D&E-0090,Traditional Eggs,LocalProduce Network,5,803,240,0.73,4.78,10
+WH-D&E-0091,Deluxe Milk,PremiumImports LLC,1,552,165,0.99,3.13,100
+WH-D&E-0092,Special Milk,OceanHarvest Ltd,6,558,167,0.96,5.89,100
+WH-D&E-0093,Traditional Eggs,DirectFarm Partners,5,687,206,0.96,2.45,50
+WH-D&E-0094,Premium Cheese,CitySuppliers,2,193,57,0.71,8.86,25
+WH-D&E-0095,Artisan Cheese,DirectFarm Partners,5,954,286,0.95,1.96,10
+WH-D&E-0096,Organic Yogurt,RegionalWholesale,4,150,45,0.93,8.98,25
+WH-D&E-0097,Artisan Yogurt,MegaDistributors,1,901,270,0.84,4.72,50
+WH-D&E-0098,Artisan Cheese,NationalFoods Corp,4,501,150,0.71,8.38,50
+WH-D&E-0099,Special Cheese,GlobalFoods Inc,5,896,268,0.72,4.45,10
+WH-D&E-0100,Deluxe Milk,DirectFarm Partners,6,250,75,0.99,3.47,50
+WH-M&S-0101,Gourmet Pork,NationalFoods Corp,5,250,75,0.72,14.94,50
+WH-M&S-0102,Fresh Fish,MegaDistributors,6,987,296,0.93,20.79,100
+WH-M&S-0103,Classic Pork,OceanHarvest Ltd,5,595,178,0.93,21.17,10
+WH-M&S-0104,Premium Chicken,FreshSupply Co,7,139,41,0.84,4.25,10
+WH-M&S-0105,Artisan Beef,NationalFoods Corp,4,507,152,0.7,26.93,10
+WH-M&S-0106,Artisan Chicken,CitySuppliers,7,627,188,0.91,16.35,100
+WH-M&S-0107,Premium Chicken,FreshSupply Co,4,274,82,0.8,27.1,10
+WH-M&S-0108,Fresh Fish,OceanHarvest Ltd,1,538,161,0.7,24.71,25
+WH-M&S-0109,Traditional Fish,RegionalWholesale,4,408,122,0.99,9.73,50
+WH-M&S-0110,Gourmet Fish,MegaDistributors,3,921,276,0.84,21.02,100
+WH-M&S-0111,Gourmet Pork,RegionalWholesale,5,991,297,0.91,19.54,25
+WH-M&S-0112,Traditional Fish,FreshSupply Co,3,181,54,0.73,15.04,50
+WH-M&S-0113,Deluxe Fish,CitySuppliers,5,475,142,0.8,23.3,10
+WH-M&S-0114,Classic Fish,MegaDistributors,3,754,226,0.87,10.42,100
+WH-M&S-0115,Deluxe Pork,MegaDistributors,1,375,112,0.73,12.07,50
+WH-M&S-0116,Fresh Beef,CitySuppliers,3,740,222,0.89,9.25,25
+WH-M&S-0117,Artisan Chicken,GlobalFoods Inc,7,81,24,0.74,14.0,25
+WH-M&S-0118,Premium Fish,PremiumImports LLC,4,422,126,0.88,8.59,100
+WH-M&S-0119,Special Fish,NationalFoods Corp,4,784,235,0.78,28.54,10
+WH-M&S-0120,Premium Fish,MegaDistributors,7,133,39,0.83,28.45,25
+WH-M&S-0121,Artisan Fish,DirectFarm Partners,7,776,232,0.79,17.53,50
+WH-M&S-0122,Classic Chicken,DirectFarm Partners,3,832,249,0.95,10.37,10
+WH-M&S-0123,Natural Beef,CitySuppliers,5,863,258,1.0,21.06,25
+WH-M&S-0124,Gourmet Chicken,NationalFoods Corp,6,699,209,0.84,27.83,25
+WH-M&S-0125,Artisan Beef,MegaDistributors,4,971,291,0.92,18.98,50
+WH-M&S-0126,Artisan Beef,NationalFoods Corp,7,491,147,0.79,6.67,10
+WH-M&S-0127,Deluxe Chicken,MegaDistributors,2,736,220,0.76,13.24,50
+WH-M&S-0128,Natural Fish,OceanHarvest Ltd,3,593,177,0.88,23.56,100
+WH-M&S-0129,Artisan Pork,LocalProduce Network,6,81,24,0.74,9.81,10
+WH-M&S-0130,Traditional Fish,FreshSupply Co,5,416,124,0.97,4.4,10
+WH-M&S-0131,Organic Chicken,RegionalWholesale,6,531,159,0.82,24.1,10
+WH-M&S-0132,Classic Beef,NationalFoods Corp,1,119,35,0.8,25.66,10
+WH-M&S-0133,Fresh Chicken,NationalFoods Corp,1,77,23,0.79,15.79,100
+WH-M&S-0134,Deluxe Chicken,CitySuppliers,7,915,274,0.84,23.71,25
+WH-M&S-0135,Fresh Beef,FreshSupply Co,7,753,225,0.79,29.05,100
+WH-M&S-0136,Deluxe Beef,LocalProduce Network,2,65,19,0.89,18.55,25
+WH-M&S-0137,Classic Fish,MegaDistributors,2,716,214,0.75,5.05,50
+WH-M&S-0138,Deluxe Beef,RegionalWholesale,5,660,198,0.91,25.96,100
+WH-M&S-0139,Special Beef,PremiumImports LLC,5,858,257,0.96,24.13,100
+WH-M&S-0140,Natural Fish,PremiumImports LLC,2,202,60,0.83,4.86,10
+WH-M&S-0141,Artisan Beef,OceanHarvest Ltd,5,974,292,0.88,25.2,100
+WH-M&S-0142,Gourmet Fish,PremiumImports LLC,5,583,174,0.92,22.1,100
+WH-M&S-0143,Traditional Chicken,DirectFarm Partners,2,134,40,0.74,29.07,100
+WH-M&S-0144,Artisan Fish,NationalFoods Corp,7,73,21,0.91,25.3,10
+WH-M&S-0145,Classic Pork,MegaDistributors,6,301,90,0.72,25.43,25
+WH-M&S-0146,Gourmet Pork,GlobalFoods Inc,4,491,147,0.79,9.58,100
+WH-M&S-0147,Premium Fish,MegaDistributors,2,904,271,0.8,16.34,25
+WH-M&S-0148,Classic Chicken,FreshSupply Co,7,758,227,0.94,12.58,10
+WH-M&S-0149,Special Pork,FreshSupply Co,5,539,161,0.99,21.93,100
+WH-M&S-0150,Classic Beef,CitySuppliers,2,593,177,0.81,5.31,50
+WH-B-0151,Classic Pastries,CitySuppliers,3,293,87,0.94,10.73,25
+WH-B-0152,Premium Pastries,CitySuppliers,6,818,245,0.8,2.48,10
+WH-B-0153,Classic Pastries,LocalProduce Network,5,324,97,0.74,5.42,100
+WH-B-0154,Traditional Pastries,NationalFoods Corp,4,824,247,0.84,8.53,100
+WH-B-0155,Natural Cakes,PremiumImports LLC,2,477,143,0.84,6.05,100
+WH-B-0156,Deluxe Pastries,GlobalFoods Inc,5,86,25,0.85,4.38,10
+WH-B-0157,Traditional Pastries,OceanHarvest Ltd,5,778,233,0.77,14.32,50
+WH-B-0158,Gourmet Bread,DirectFarm Partners,7,694,208,0.81,5.02,100
+WH-B-0159,Deluxe Cakes,DirectFarm Partners,3,65,19,0.82,14.73,50
+WH-B-0160,Natural Pastries,PremiumImports LLC,3,347,104,0.8,3.68,100
+WH-B-0161,Fresh Cakes,RegionalWholesale,3,523,156,0.71,4.99,10
+WH-B-0162,Fresh Cakes,RegionalWholesale,4,809,242,0.72,10.0,25
+WH-B-0163,Premium Bread,LocalProduce Network,3,66,19,0.76,9.12,100
+WH-B-0164,Natural Pastries,LocalProduce Network,2,397,119,0.75,3.74,50
+WH-B-0165,Gourmet Pastries,MegaDistributors,7,246,73,0.71,2.77,10
+WH-B-0166,Organic Pastries,CitySuppliers,2,648,194,0.71,9.16,50
+WH-B-0167,Special Bread,LocalProduce Network,1,613,183,0.79,14.3,100
+WH-B-0168,Traditional Bread,OceanHarvest Ltd,1,432,129,0.9,11.75,50
+WH-B-0169,Special Cakes,FreshSupply Co,2,886,265,0.87,4.31,25
+WH-B-0170,Gourmet Pastries,NationalFoods Corp,7,767,230,0.92,5.3,100
+WH-B-0171,Special Pastries,PremiumImports LLC,5,814,244,0.81,9.77,50
+WH-B-0172,Classic Cakes,FreshSupply Co,3,796,238,0.97,9.83,25
+WH-B-0173,Fresh Cakes,DirectFarm Partners,4,643,192,1.0,4.51,25
+WH-B-0174,Premium Bread,OceanHarvest Ltd,7,690,207,0.74,6.84,50
+WH-B-0175,Premium Pastries,LocalProduce Network,6,446,133,0.98,4.39,100
+WH-B-0176,Gourmet Cakes,DirectFarm Partners,1,372,111,0.72,2.18,100
+WH-B-0177,Special Pastries,RegionalWholesale,6,905,271,0.95,10.33,100
+WH-B-0178,Traditional Pastries,GlobalFoods Inc,1,393,117,0.84,4.3,100
+WH-B-0179,Fresh Pastries,MegaDistributors,4,272,81,0.96,2.18,25
+WH-B-0180,Special Pastries,RegionalWholesale,6,339,101,1.0,13.91,10
+WH-B-0181,Deluxe Bread,NationalFoods Corp,5,100,30,0.87,10.85,50
+WH-B-0182,Gourmet Cakes,GlobalFoods Inc,3,100,30,0.91,7.24,25
+WH-B-0183,Artisan Bread,LocalProduce Network,3,848,254,0.81,11.33,10
+WH-B-0184,Organic Pastries,NationalFoods Corp,3,648,194,0.97,4.36,25
+WH-B-0185,Deluxe Cakes,PremiumImports LLC,5,643,192,0.79,9.15,50
+WH-B-0186,Gourmet Pastries,FreshSupply Co,2,316,94,0.85,13.84,100
+WH-B-0187,Gourmet Cakes,MegaDistributors,5,517,155,0.72,14.57,50
+WH-B-0188,Natural Pastries,RegionalWholesale,6,734,220,0.97,5.63,25
+WH-B-0189,Artisan Bread,MegaDistributors,2,620,186,0.9,10.77,25
+WH-B-0190,Traditional Cakes,CitySuppliers,4,835,250,0.7,1.7,10
+WH-B-0191,Natural Pastries,DirectFarm Partners,1,131,39,1.0,2.8,50
+WH-B-0192,Premium Cakes,NationalFoods Corp,2,502,150,0.98,10.28,100
+WH-B-0193,Premium Pastries,OceanHarvest Ltd,3,298,89,0.89,3.79,25
+WH-B-0194,Gourmet Cakes,RegionalWholesale,2,396,118,0.84,9.83,100
+WH-B-0195,Traditional Bread,FreshSupply Co,4,574,172,0.81,3.01,10
+WH-B-0196,Gourmet Pastries,NationalFoods Corp,5,835,250,0.8,2.87,50
+WH-B-0197,Fresh Bread,MegaDistributors,4,324,97,1.0,5.49,50
+WH-B-0198,Organic Cakes,FreshSupply Co,3,1000,300,0.84,4.3,10
+WH-B-0199,Fresh Pastries,MegaDistributors,2,411,123,0.92,8.08,50
+WH-B-0200,Deluxe Cakes,NationalFoods Corp,1,703,210,0.8,6.94,50
+WH-FF-0201,Gourmet Ice Cream,MegaDistributors,30,564,169,0.88,10.73,50
+WH-FF-0202,Special Frozen Meals,GlobalFoods Inc,22,433,129,0.89,10.03,100
+WH-FF-0203,Artisan Frozen Meals,FreshSupply Co,26,450,135,0.8,7.31,50
+WH-FF-0204,Premium Ice Cream,MegaDistributors,27,52,15,0.93,6.38,10
+WH-FF-0205,Gourmet Frozen Vegetables,NationalFoods Corp,14,110,33,0.99,15.82,10
+WH-FF-0206,Natural Frozen Vegetables,RegionalWholesale,10,640,192,0.76,7.19,50
+WH-FF-0207,Natural Ice Cream,PremiumImports LLC,19,754,226,0.73,15.89,100
+WH-FF-0208,Classic Frozen Vegetables,OceanHarvest Ltd,14,292,87,0.79,15.67,10
+WH-FF-0209,Gourmet Frozen Meals,NationalFoods Corp,16,892,267,0.85,13.22,100
+WH-FF-0210,Fresh Ice Cream,PremiumImports LLC,18,767,230,0.98,9.82,25
+WH-FF-0211,Special Frozen Meals,DirectFarm Partners,21,391,117,0.93,7.18,50
+WH-FF-0212,Traditional Ice Cream,FreshSupply Co,13,882,264,0.92,16.55,10
+WH-FF-0213,Artisan Frozen Vegetables,DirectFarm Partners,8,904,271,1.0,15.91,50
+WH-FF-0214,Deluxe Frozen Meals,GlobalFoods Inc,8,130,39,0.76,7.28,100
+WH-FF-0215,Natural Frozen Vegetables,DirectFarm Partners,10,908,272,0.87,15.61,50
+WH-FF-0216,Gourmet Ice Cream,DirectFarm Partners,8,778,233,0.94,15.93,100
+WH-FF-0217,Classic Frozen Vegetables,RegionalWholesale,19,306,91,0.79,12.02,100
+WH-FF-0218,Organic Frozen Meals,CitySuppliers,20,309,92,1.0,8.83,25
+WH-FF-0219,Organic Frozen Vegetables,LocalProduce Network,27,446,133,0.91,8.99,100
+WH-FF-0220,Natural Frozen Meals,LocalProduce Network,8,422,126,0.71,14.7,100
+WH-FF-0221,Artisan Ice Cream,PremiumImports LLC,24,138,41,0.98,4.16,100
+WH-FF-0222,Fresh Ice Cream,MegaDistributors,7,791,237,0.88,4.55,100
+WH-FF-0223,Artisan Frozen Vegetables,FreshSupply Co,8,982,294,0.77,11.84,10
+WH-FF-0224,Special Ice Cream,RegionalWholesale,20,671,201,0.72,4.12,100
+WH-FF-0225,Gourmet Frozen Vegetables,RegionalWholesale,16,348,104,0.76,5.93,50
+WH-FF-0226,Deluxe Ice Cream,DirectFarm Partners,19,574,172,0.71,12.78,100
+WH-FF-0227,Natural Frozen Meals,LocalProduce Network,11,733,219,0.98,17.8,25
+WH-FF-0228,Deluxe Frozen Vegetables,OceanHarvest Ltd,23,276,82,0.71,9.2,25
+WH-FF-0229,Gourmet Frozen Meals,DirectFarm Partners,23,769,230,0.76,3.53,100
+WH-FF-0230,Special Frozen Vegetables,MegaDistributors,19,368,110,0.93,6.59,10
+WH-FF-0231,Artisan Frozen Meals,LocalProduce Network,13,956,286,0.72,6.25,25
+WH-FF-0232,Premium Frozen Vegetables,GlobalFoods Inc,16,430,129,0.88,16.55,100
+WH-FF-0233,Classic Ice Cream,GlobalFoods Inc,8,542,162,0.82,11.63,50
+WH-FF-0234,Classic Frozen Meals,PremiumImports LLC,21,73,21,0.84,11.86,25
+WH-FF-0235,Premium Frozen Vegetables,NationalFoods Corp,29,564,169,0.85,6.8,100
+WH-FF-0236,Natural Frozen Meals,CitySuppliers,23,702,210,0.93,13.66,25
+WH-FF-0237,Artisan Ice Cream,PremiumImports LLC,19,150,45,1.0,4.64,10
+WH-FF-0238,Natural Frozen Vegetables,CitySuppliers,19,185,55,0.71,10.4,100
+WH-FF-0239,Gourmet Frozen Meals,RegionalWholesale,20,167,50,0.91,17.47,100
+WH-FF-0240,Natural Frozen Vegetables,PremiumImports LLC,17,925,277,0.94,14.83,100
+WH-FF-0241,Classic Frozen Meals,PremiumImports LLC,13,573,171,0.89,15.73,50
+WH-FF-0242,Organic Frozen Vegetables,PremiumImports LLC,17,410,123,0.82,14.61,100
+WH-FF-0243,Organic Ice Cream,LocalProduce Network,9,58,17,0.75,9.17,50
+WH-FF-0244,Natural Frozen Vegetables,GlobalFoods Inc,10,320,96,0.77,3.56,50
+WH-FF-0245,Special Ice Cream,FreshSupply Co,21,283,84,0.86,16.12,50
+WH-FF-0246,Special Ice Cream,PremiumImports LLC,17,733,219,0.89,5.39,100
+WH-FF-0247,Gourmet Frozen Vegetables,FreshSupply Co,12,148,44,0.96,16.53,100
+WH-FF-0248,Organic Frozen Vegetables,MegaDistributors,19,891,267,0.81,4.06,50
+WH-FF-0249,Organic Ice Cream,FreshSupply Co,22,991,297,0.9,3.37,10
+WH-FF-0250,Gourmet Frozen Meals,CitySuppliers,20,63,18,0.89,7.81,25
+WH-B-0251,Fresh Coffee,LocalProduce Network,7,705,211,0.95,10.69,50
+WH-B-0252,Artisan Coffee,GlobalFoods Inc,27,578,173,0.78,11.3,25
+WH-B-0253,Natural Soft Drinks,OceanHarvest Ltd,25,230,69,0.87,3.08,10
+WH-B-0254,Natural Juice,DirectFarm Partners,14,674,202,0.83,1.73,50
+WH-B-0255,Natural Tea,RegionalWholesale,28,192,57,0.85,1.29,100
+WH-B-0256,Gourmet Juice,RegionalWholesale,15,367,110,0.92,1.64,100
+WH-B-0257,Premium Tea,FreshSupply Co,19,501,150,0.89,9.57,25
+WH-B-0258,Special Juice,NationalFoods Corp,24,341,102,0.71,2.94,10
+WH-B-0259,Classic Juice,FreshSupply Co,24,544,163,0.87,9.87,100
+WH-B-0260,Fresh Water,RegionalWholesale,29,149,44,0.7,9.59,50
+WH-B-0261,Fresh Soft Drinks,NationalFoods Corp,14,752,225,0.74,11.86,100
+WH-B-0262,Fresh Water,FreshSupply Co,20,559,167,0.97,1.85,25
+WH-B-0263,Natural Juice,NationalFoods Corp,26,117,35,0.7,9.61,100
+WH-B-0264,Premium Tea,LocalProduce Network,13,962,288,0.93,2.59,50
+WH-B-0265,Artisan Juice,DirectFarm Partners,9,631,189,0.97,6.6,50
+WH-B-0266,Natural Coffee,CitySuppliers,16,415,124,0.83,6.45,50
+WH-B-0267,Classic Coffee,FreshSupply Co,30,536,160,0.83,11.38,50
+WH-B-0268,Gourmet Tea,LocalProduce Network,10,414,124,0.8,7.93,50
+WH-B-0269,Artisan Soft Drinks,NationalFoods Corp,25,265,79,0.99,5.46,50
+WH-B-0270,Gourmet Coffee,RegionalWholesale,13,352,105,0.72,1.44,10
+WH-B-0271,Fresh Water,NationalFoods Corp,10,941,282,0.86,1.35,50
+WH-B-0272,Special Tea,DirectFarm Partners,23,438,131,0.79,6.85,100
+WH-B-0273,Traditional Coffee,LocalProduce Network,26,940,282,0.71,3.96,25
+WH-B-0274,Organic Tea,CitySuppliers,18,523,156,0.84,9.64,50
+WH-B-0275,Classic Tea,GlobalFoods Inc,23,504,151,0.94,5.5,25
+WH-B-0276,Gourmet Coffee,GlobalFoods Inc,8,457,137,0.81,5.15,25
+WH-B-0277,Natural Water,GlobalFoods Inc,17,190,57,0.93,8.18,50
+WH-B-0278,Gourmet Juice,LocalProduce Network,26,780,234,0.98,1.37,10
+WH-B-0279,Organic Soft Drinks,PremiumImports LLC,10,635,190,0.99,9.09,25
+WH-B-0280,Premium Juice,GlobalFoods Inc,12,908,272,0.86,7.28,10
+WH-B-0281,Organic Tea,NationalFoods Corp,12,319,95,0.77,5.29,25
+WH-B-0282,Special Soft Drinks,NationalFoods Corp,25,248,74,0.76,4.16,100
+WH-B-0283,Classic Tea,OceanHarvest Ltd,15,679,203,0.86,2.36,50
+WH-B-0284,Organic Juice,NationalFoods Corp,21,857,257,0.74,4.59,50
+WH-B-0285,Deluxe Water,LocalProduce Network,25,886,265,0.77,7.15,25
+WH-B-0286,Special Tea,PremiumImports LLC,26,621,186,0.71,7.6,100
+WH-B-0287,Deluxe Soft Drinks,PremiumImports LLC,20,574,172,0.87,0.93,25
+WH-B-0288,Natural Water,RegionalWholesale,17,795,238,0.92,4.6,10
+WH-B-0289,Artisan Juice,DirectFarm Partners,25,916,274,0.93,1.39,100
+WH-B-0290,Traditional Soft Drinks,NationalFoods Corp,9,904,271,0.89,3.05,25
+WH-B-0291,Fresh Coffee,CitySuppliers,28,138,41,0.85,4.82,25
+WH-B-0292,Organic Tea,FreshSupply Co,23,633,189,0.73,10.67,25
+WH-B-0293,Special Juice,RegionalWholesale,8,754,226,0.91,1.17,25
+WH-B-0294,Artisan Water,MegaDistributors,27,124,37,0.83,6.14,100
+WH-B-0295,Classic Coffee,DirectFarm Partners,17,329,98,0.76,9.2,10
+WH-B-0296,Organic Water,GlobalFoods Inc,29,533,159,0.82,3.83,25
+WH-B-0297,Deluxe Coffee,LocalProduce Network,14,917,275,0.74,1.12,25
+WH-B-0298,Premium Tea,PremiumImports LLC,30,167,50,0.85,2.93,100
+WH-B-0299,Deluxe Juice,CitySuppliers,13,304,91,0.84,3.9,50
+WH-B-0300,Artisan Soft Drinks,RegionalWholesale,20,112,33,0.74,2.6,25
+WH-S&C-0301,Traditional Cookies,NationalFoods Corp,16,611,183,0.99,7.7,100
+WH-S&C-0302,Premium Chips,PremiumImports LLC,26,336,100,0.71,4.6,10
+WH-S&C-0303,Natural Chips,RegionalWholesale,30,994,298,0.77,5.69,100
+WH-S&C-0304,Artisan Nuts,GlobalFoods Inc,16,705,211,0.87,3.46,25
+WH-S&C-0305,Fresh Chips,CitySuppliers,11,648,194,0.78,7.45,10
+WH-S&C-0306,Natural Nuts,NationalFoods Corp,12,878,263,0.74,1.89,100
+WH-S&C-0307,Special Cookies,FreshSupply Co,16,723,216,0.9,4.33,10
+WH-S&C-0308,Deluxe Nuts,MegaDistributors,7,983,294,0.79,7.02,50
+WH-S&C-0309,Fresh Candy,NationalFoods Corp,13,284,85,0.72,1.79,100
+WH-S&C-0310,Natural Cookies,NationalFoods Corp,29,381,114,0.97,3.94,50
+WH-S&C-0311,Fresh Cookies,DirectFarm Partners,30,121,36,1.0,3.2,100
+WH-S&C-0312,Organic Cookies,MegaDistributors,16,469,140,0.78,2.58,10
+WH-S&C-0313,Special Nuts,MegaDistributors,18,991,297,0.9,7.13,10
+WH-S&C-0314,Natural Candy,MegaDistributors,15,126,37,0.71,2.38,10
+WH-S&C-0315,Deluxe Nuts,CitySuppliers,23,206,61,0.86,7.41,10
+WH-S&C-0316,Traditional Chips,LocalProduce Network,29,763,228,0.83,1.78,25
+WH-S&C-0317,Premium Nuts,PremiumImports LLC,29,630,189,0.74,4.07,50
+WH-S&C-0318,Organic Chips,LocalProduce Network,8,179,53,0.76,6.0,100
+WH-S&C-0319,Special Nuts,OceanHarvest Ltd,26,430,129,0.96,5.53,25
+WH-S&C-0320,Special Nuts,DirectFarm Partners,19,728,218,0.73,6.28,50
+WH-S&C-0321,Fresh Nuts,GlobalFoods Inc,28,998,299,0.78,8.67,10
+WH-S&C-0322,Natural Chips,FreshSupply Co,10,666,199,0.85,8.86,25
+WH-S&C-0323,Classic Cookies,RegionalWholesale,20,721,216,0.83,6.72,10
+WH-S&C-0324,Natural Cookies,PremiumImports LLC,20,192,57,0.95,8.36,50
+WH-S&C-0325,Natural Nuts,OceanHarvest Ltd,30,531,159,0.96,6.5,100
+WH-S&C-0326,Natural Candy,DirectFarm Partners,19,288,86,0.94,1.94,10
+WH-S&C-0327,Special Candy,DirectFarm Partners,24,814,244,0.82,8.01,50
+WH-S&C-0328,Fresh Chips,DirectFarm Partners,15,547,164,0.86,8.35,25
+WH-S&C-0329,Special Nuts,DirectFarm Partners,27,980,294,0.76,6.73,10
+WH-S&C-0330,Artisan Candy,PremiumImports LLC,23,962,288,0.73,6.22,50
+WH-S&C-0331,Traditional Cookies,FreshSupply Co,30,864,259,0.82,1.93,50
+WH-S&C-0332,Natural Candy,NationalFoods Corp,7,319,95,0.89,3.61,50
+WH-S&C-0333,Gourmet Candy,NationalFoods Corp,29,748,224,0.89,2.7,50
+WH-S&C-0334,Deluxe Cookies,CitySuppliers,17,617,185,0.87,7.79,50
+WH-S&C-0335,Natural Chips,PremiumImports LLC,23,151,45,0.91,8.03,100
+WH-S&C-0336,Artisan Cookies,OceanHarvest Ltd,8,818,245,0.94,2.41,100
+WH-S&C-0337,Gourmet Cookies,GlobalFoods Inc,14,989,296,0.74,1.54,50
+WH-S&C-0338,Special Cookies,PremiumImports LLC,19,356,106,0.93,3.42,100
+WH-S&C-0339,Classic Cookies,GlobalFoods Inc,9,876,262,0.93,3.61,10
+WH-S&C-0340,Special Cookies,NationalFoods Corp,9,358,107,0.77,8.88,10
+WH-S&C-0341,Artisan Candy,RegionalWholesale,28,811,243,0.84,5.12,50
+WH-S&C-0342,Classic Cookies,MegaDistributors,30,745,223,0.92,7.45,100
+WH-S&C-0343,Gourmet Candy,LocalProduce Network,24,970,291,0.83,8.02,10
+WH-S&C-0344,Traditional Chips,OceanHarvest Ltd,16,134,40,0.76,7.84,50
+WH-S&C-0345,Fresh Chips,MegaDistributors,28,482,144,0.7,3.33,10
+WH-S&C-0346,Artisan Cookies,NationalFoods Corp,19,569,170,0.94,1.91,25
+WH-S&C-0347,Natural Nuts,PremiumImports LLC,23,895,268,0.83,8.46,10
+WH-S&C-0348,Traditional Chips,OceanHarvest Ltd,24,602,180,0.97,4.12,25
+WH-S&C-0349,Classic Chips,LocalProduce Network,17,987,296,0.88,1.42,50
+WH-S&C-0350,Fresh Candy,FreshSupply Co,15,296,88,0.78,2.27,10
+WH-PS-0351,Fresh Oils,PremiumImports LLC,26,521,156,0.94,11.53,10
+WH-PS-0352,Premium Oils,MegaDistributors,26,402,120,0.81,13.64,50
+WH-PS-0353,Fresh Canned Goods,GlobalFoods Inc,20,387,116,0.79,8.5,10
+WH-PS-0354,Organic Spices,LocalProduce Network,25,874,262,0.86,11.78,50
+WH-PS-0355,Premium Canned Goods,PremiumImports LLC,21,121,36,0.8,4.03,10
+WH-PS-0356,Organic Oils,OceanHarvest Ltd,16,68,20,0.77,12.65,100
+WH-PS-0357,Premium Spices,OceanHarvest Ltd,24,505,151,0.95,9.7,10
+WH-PS-0358,Fresh Rice,DirectFarm Partners,27,280,84,0.79,4.79,10
+WH-PS-0359,Classic Spices,FreshSupply Co,22,676,202,0.94,8.82,10
+WH-PS-0360,Natural Pasta,OceanHarvest Ltd,13,287,86,0.77,1.57,10
+WH-PS-0361,Traditional Spices,LocalProduce Network,8,788,236,0.86,8.58,25
+WH-PS-0362,Artisan Oils,GlobalFoods Inc,20,324,97,0.87,14.72,50
+WH-PS-0363,Organic Pasta,OceanHarvest Ltd,27,851,255,0.73,5.57,25
+WH-PS-0364,Natural Spices,MegaDistributors,14,688,206,0.99,2.52,100
+WH-PS-0365,Fresh Spices,OceanHarvest Ltd,13,892,267,0.74,12.56,50
+WH-PS-0366,Fresh Oils,LocalProduce Network,8,68,20,0.9,12.29,50
+WH-PS-0367,Deluxe Oils,FreshSupply Co,23,674,202,0.95,3.5,10
+WH-PS-0368,Deluxe Pasta,GlobalFoods Inc,19,703,210,0.88,8.02,100
+WH-PS-0369,Premium Oils,LocalProduce Network,11,206,61,1.0,11.45,10
+WH-PS-0370,Premium Canned Goods,OceanHarvest Ltd,22,453,135,0.92,13.07,10
+WH-PS-0371,Natural Canned Goods,MegaDistributors,29,173,51,0.91,6.89,50
+WH-PS-0372,Artisan Oils,GlobalFoods Inc,28,966,289,0.73,5.48,100
+WH-PS-0373,Gourmet Oils,DirectFarm Partners,8,622,186,0.82,5.89,100
+WH-PS-0374,Organic Canned Goods,PremiumImports LLC,9,59,17,0.89,11.07,25
+WH-PS-0375,Fresh Oils,RegionalWholesale,22,962,288,0.94,8.45,50
+WH-PS-0376,Natural Pasta,RegionalWholesale,14,273,81,0.94,10.12,50
+WH-PS-0377,Artisan Oils,DirectFarm Partners,8,899,269,0.77,3.0,10
+WH-PS-0378,Premium Canned Goods,GlobalFoods Inc,30,792,237,0.77,11.06,25
+WH-PS-0379,Deluxe Spices,MegaDistributors,15,991,297,0.81,9.81,10
+WH-PS-0380,Artisan Pasta,LocalProduce Network,19,214,64,0.85,5.83,10
+WH-PS-0381,Special Pasta,DirectFarm Partners,14,225,67,0.96,10.36,10
+WH-PS-0382,Organic Pasta,GlobalFoods Inc,7,217,65,0.87,4.0,50
+WH-PS-0383,Special Canned Goods,DirectFarm Partners,21,379,113,0.77,1.07,100
+WH-PS-0384,Natural Oils,FreshSupply Co,29,863,258,0.76,6.99,10
+WH-PS-0385,Traditional Spices,PremiumImports LLC,9,831,249,0.87,5.89,50
+WH-PS-0386,Organic Canned Goods,OceanHarvest Ltd,9,874,262,1.0,0.97,25
+WH-PS-0387,Artisan Oils,MegaDistributors,27,720,216,0.97,13.76,100
+WH-PS-0388,Deluxe Canned Goods,LocalProduce Network,29,990,297,0.86,10.74,10
+WH-PS-0389,Gourmet Spices,RegionalWholesale,10,694,208,0.99,3.48,10
+WH-PS-0390,Fresh Pasta,NationalFoods Corp,13,251,75,0.75,13.54,25
+WH-PS-0391,Natural Pasta,FreshSupply Co,25,660,198,0.83,10.22,50
+WH-PS-0392,Deluxe Spices,GlobalFoods Inc,13,514,154,0.88,13.43,10
+WH-PS-0393,Natural Rice,NationalFoods Corp,8,151,45,0.74,7.93,50
+WH-PS-0394,Fresh Rice,MegaDistributors,7,137,41,0.77,4.01,25
+WH-PS-0395,Traditional Pasta,LocalProduce Network,29,944,283,0.76,8.84,100
+WH-PS-0396,Special Spices,LocalProduce Network,11,70,21,0.76,13.33,25
+WH-PS-0397,Gourmet Canned Goods,DirectFarm Partners,20,933,279,0.96,8.17,10
+WH-PS-0398,Fresh Spices,GlobalFoods Inc,7,102,30,0.96,14.6,10
+WH-PS-0399,Traditional Oils,GlobalFoods Inc,8,365,109,0.78,5.56,25
+WH-PS-0400,Fresh Spices,GlobalFoods Inc,19,996,298,0.73,6.83,25
+WH-H-0401,Fresh Cleaning,CitySuppliers,29,240,72,0.84,6.73,25
+WH-H-0402,Classic Paper Products,PremiumImports LLC,12,488,146,0.77,7.4,50
+WH-H-0403,Organic Paper Products,GlobalFoods Inc,12,135,40,0.96,5.86,10
+WH-H-0404,Deluxe Paper Products,OceanHarvest Ltd,7,362,108,0.77,11.75,10
+WH-H-0405,Fresh Laundry,LocalProduce Network,7,109,32,0.96,11.39,100
+WH-H-0406,Special Cleaning,OceanHarvest Ltd,13,937,281,0.87,13.48,50
+WH-H-0407,Special Paper Products,RegionalWholesale,14,577,173,0.95,2.47,10
+WH-H-0408,Special Cleaning,LocalProduce Network,27,807,242,0.88,6.09,25
+WH-H-0409,Special Laundry,LocalProduce Network,25,238,71,0.99,12.15,25
+WH-H-0410,Deluxe Laundry,NationalFoods Corp,13,805,241,0.88,12.2,100
+WH-H-0411,Artisan Paper Products,LocalProduce Network,20,286,85,0.89,6.62,50
+WH-H-0412,Fresh Laundry,GlobalFoods Inc,20,296,88,0.86,8.92,25
+WH-H-0413,Natural Paper Products,RegionalWholesale,25,881,264,0.84,11.63,10
+WH-H-0414,Natural Laundry,OceanHarvest Ltd,17,962,288,0.85,17.6,10
+WH-H-0415,Traditional Paper Products,OceanHarvest Ltd,19,707,212,0.84,3.52,10
+WH-H-0416,Deluxe Paper Products,NationalFoods Corp,15,106,31,0.95,9.08,50
+WH-H-0417,Deluxe Cleaning,OceanHarvest Ltd,10,68,20,0.96,17.12,25
+WH-H-0418,Fresh Paper Products,LocalProduce Network,27,472,141,0.86,14.98,50
+WH-H-0419,Classic Laundry,CitySuppliers,13,996,298,0.79,14.16,25
+WH-H-0420,Gourmet Laundry,DirectFarm Partners,9,911,273,0.84,16.04,25
+WH-H-0421,Artisan Cleaning,PremiumImports LLC,8,536,160,0.92,9.99,100
+WH-H-0422,Natural Cleaning,MegaDistributors,18,554,166,0.79,2.59,10
+WH-H-0423,Gourmet Paper Products,RegionalWholesale,9,751,225,0.87,6.43,10
+WH-H-0424,Fresh Cleaning,OceanHarvest Ltd,26,226,67,0.95,16.1,100
+WH-H-0425,Premium Paper Products,MegaDistributors,12,81,24,0.77,8.29,100
+WH-H-0426,Natural Laundry,NationalFoods Corp,19,123,36,0.98,10.76,10
+WH-H-0427,Gourmet Paper Products,CitySuppliers,28,537,161,0.73,14.18,25
+WH-H-0428,Special Laundry,RegionalWholesale,7,985,295,0.72,3.73,10
+WH-H-0429,Natural Paper Products,DirectFarm Partners,13,754,226,0.97,10.84,10
+WH-H-0430,Special Cleaning,LocalProduce Network,24,204,61,1.0,10.05,100
+WH-H-0431,Premium Cleaning,RegionalWholesale,27,317,95,0.87,4.02,25
+WH-H-0432,Gourmet Paper Products,GlobalFoods Inc,26,829,248,0.76,4.21,100
+WH-H-0433,Special Cleaning,NationalFoods Corp,24,101,30,0.94,6.96,25
+WH-H-0434,Deluxe Laundry,LocalProduce Network,28,733,219,0.86,11.42,25
+WH-H-0435,Gourmet Laundry,CitySuppliers,26,565,169,0.74,13.28,100
+WH-H-0436,Premium Paper Products,DirectFarm Partners,13,238,71,0.78,7.77,10
+WH-H-0437,Deluxe Paper Products,DirectFarm Partners,30,681,204,0.77,14.71,50
+WH-H-0438,Deluxe Laundry,PremiumImports LLC,7,146,43,0.84,17.47,50
+WH-H-0439,Premium Laundry,OceanHarvest Ltd,17,732,219,0.94,11.26,100
+WH-H-0440,Special Laundry,PremiumImports LLC,15,798,239,0.89,14.35,50
+WH-H-0441,Classic Cleaning,DirectFarm Partners,15,992,297,0.99,2.31,100
+WH-H-0442,Gourmet Cleaning,GlobalFoods Inc,11,268,80,0.75,6.88,50
+WH-H-0443,Classic Paper Products,GlobalFoods Inc,24,350,105,0.94,8.45,10
+WH-H-0444,Premium Paper Products,FreshSupply Co,9,892,267,0.92,13.24,10
+WH-H-0445,Natural Cleaning,CitySuppliers,18,240,72,0.92,17.97,50
+WH-H-0446,Natural Laundry,FreshSupply Co,9,961,288,0.97,17.3,100
+WH-H-0447,Traditional Laundry,OceanHarvest Ltd,10,783,234,0.78,7.54,25
+WH-H-0448,Classic Laundry,FreshSupply Co,27,150,45,0.96,17.31,25
+WH-H-0449,Classic Laundry,OceanHarvest Ltd,21,914,274,0.93,17.05,50
+WH-H-0450,Classic Paper Products,OceanHarvest Ltd,16,126,37,0.93,12.98,10
+WH-PC-0451,Natural Cosmetics,RegionalWholesale,11,676,202,0.76,13.98,25
+WH-PC-0452,Special Cosmetics,DirectFarm Partners,17,141,42,0.73,16.63,100
+WH-PC-0453,Natural Cosmetics,MegaDistributors,15,88,26,0.9,22.97,25
+WH-PC-0454,Deluxe Cosmetics,RegionalWholesale,15,134,40,0.94,22.98,50
+WH-PC-0455,Gourmet Cosmetics,DirectFarm Partners,14,166,49,0.81,16.16,50
+WH-PC-0456,Traditional Toiletries,OceanHarvest Ltd,10,525,157,0.85,7.38,10
+WH-PC-0457,Fresh Hair Care,GlobalFoods Inc,29,937,281,0.91,3.69,100
+WH-PC-0458,Premium Toiletries,CitySuppliers,9,955,286,0.79,16.47,50
+WH-PC-0459,Classic Toiletries,DirectFarm Partners,29,939,281,0.79,2.39,10
+WH-PC-0460,Gourmet Cosmetics,GlobalFoods Inc,23,140,42,0.96,3.49,100
+WH-PC-0461,Fresh Toiletries,NationalFoods Corp,21,315,94,0.93,10.48,25
+WH-PC-0462,Classic Cosmetics,PremiumImports LLC,15,118,35,0.83,18.43,25
+WH-PC-0463,Premium Cosmetics,CitySuppliers,27,645,193,0.97,21.9,100
+WH-PC-0464,Classic Hair Care,PremiumImports LLC,17,549,164,0.97,13.4,25
+WH-PC-0465,Fresh Toiletries,GlobalFoods Inc,29,589,176,0.93,22.49,10
+WH-PC-0466,Gourmet Cosmetics,NationalFoods Corp,19,574,172,0.92,5.45,25
+WH-PC-0467,Deluxe Toiletries,CitySuppliers,11,439,131,0.79,14.15,10
+WH-PC-0468,Gourmet Cosmetics,CitySuppliers,8,905,271,0.86,23.75,10
+WH-PC-0469,Fresh Hair Care,LocalProduce Network,15,608,182,0.81,20.6,10
+WH-PC-0470,Organic Cosmetics,GlobalFoods Inc,13,244,73,0.83,8.74,50
+WH-PC-0471,Fresh Hair Care,RegionalWholesale,23,724,217,0.94,1.52,50
+WH-PC-0472,Classic Cosmetics,CitySuppliers,20,775,232,0.82,5.2,25
+WH-PC-0473,Natural Cosmetics,PremiumImports LLC,15,624,187,0.93,3.18,10
+WH-PC-0474,Gourmet Toiletries,LocalProduce Network,27,479,143,0.91,8.58,25
+WH-PC-0475,Artisan Toiletries,RegionalWholesale,18,825,247,0.86,6.57,100
+WH-PC-0476,Special Cosmetics,PremiumImports LLC,24,461,138,0.88,17.68,25
+WH-PC-0477,Natural Cosmetics,NationalFoods Corp,10,217,65,0.71,17.0,100
+WH-PC-0478,Gourmet Hair Care,PremiumImports LLC,13,262,78,0.89,8.2,100
+WH-PC-0479,Deluxe Hair Care,NationalFoods Corp,21,666,199,0.95,16.94,10
+WH-PC-0480,Classic Cosmetics,FreshSupply Co,23,318,95,0.87,6.2,10
+WH-PC-0481,Gourmet Cosmetics,FreshSupply Co,9,611,183,0.85,18.25,10
+WH-PC-0482,Traditional Cosmetics,FreshSupply Co,16,911,273,0.75,22.01,25
+WH-PC-0483,Classic Hair Care,GlobalFoods Inc,14,135,40,0.98,18.57,100
+WH-PC-0484,Gourmet Toiletries,LocalProduce Network,13,958,287,0.75,13.24,50
+WH-PC-0485,Special Toiletries,PremiumImports LLC,26,464,139,0.89,3.76,100
+WH-PC-0486,Special Hair Care,FreshSupply Co,14,82,24,0.95,13.43,50
+WH-PC-0487,Traditional Cosmetics,LocalProduce Network,27,737,221,0.94,11.27,25
+WH-PC-0488,Gourmet Hair Care,NationalFoods Corp,15,347,104,0.93,3.28,10
+WH-PC-0489,Premium Cosmetics,DirectFarm Partners,13,555,166,0.72,11.54,50
+WH-PC-0490,Special Cosmetics,CitySuppliers,8,999,299,0.82,2.51,25
+WH-PC-0491,Deluxe Hair Care,CitySuppliers,14,127,38,0.81,17.69,25
+WH-PC-0492,Premium Cosmetics,FreshSupply Co,12,901,270,0.99,18.2,25
+WH-PC-0493,Artisan Toiletries,OceanHarvest Ltd,12,547,164,0.77,9.05,25
+WH-PC-0494,Organic Hair Care,LocalProduce Network,16,601,180,0.73,23.68,100
+WH-PC-0495,Artisan Toiletries,FreshSupply Co,16,534,160,0.74,5.3,10
+WH-PC-0496,Artisan Hair Care,LocalProduce Network,16,574,172,0.81,9.74,10
+WH-PC-0497,Artisan Cosmetics,LocalProduce Network,10,975,292,0.81,9.76,50
+WH-PC-0498,Natural Toiletries,OceanHarvest Ltd,18,112,33,0.98,3.91,25
+WH-PC-0499,Fresh Cosmetics,LocalProduce Network,8,607,182,0.98,17.8,25
+WH-PC-0500,Premium Toiletries,LocalProduce Network,22,970,291,0.92,23.51,10

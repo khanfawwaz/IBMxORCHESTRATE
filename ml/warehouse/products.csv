@@ -1,0 +1,501 @@
+sku,name,category,subcategory,brand,base_price,unit,perishable,seasonality_factor
+WH-FP-0001,Premium Herbs,Fresh Produce,Herbs,ValueMart,11.38,lb,True,0.3
+WH-FP-0002,Organic Fruits,Fresh Produce,Fruits,PremiumSelect,10.47,box,True,0.3
+WH-FP-0003,Artisan Fruits,Fresh Produce,Fruits,PureLife,1.44,each,True,0.3
+WH-FP-0004,Traditional Fruits,Fresh Produce,Fruits,NaturesBest,9.43,box,True,0.3
+WH-FP-0005,Traditional Fruits,Fresh Produce,Fruits,OceanCatch,6.87,pack,True,0.3
+WH-FP-0006,Premium Herbs,Fresh Produce,Herbs,DailyEssentials,11.62,lb,True,0.3
+WH-FP-0007,Natural Herbs,Fresh Produce,Herbs,HealthyHarvest,4.89,lb,True,0.3
+WH-FP-0008,Organic Vegetables,Fresh Produce,Vegetables,ValueMart,6.32,oz,True,0.3
+WH-FP-0009,Deluxe Vegetables,Fresh Produce,Vegetables,PureLife,12.3,pack,True,0.3
+WH-FP-0010,Artisan Herbs,Fresh Produce,Herbs,ValueMart,2.1,oz,True,0.3
+WH-FP-0011,Natural Herbs,Fresh Produce,Herbs,PureLife,9.08,each,True,0.3
+WH-FP-0012,Classic Fruits,Fresh Produce,Fruits,GoldenFields,11.82,each,True,0.3
+WH-FP-0013,Organic Fruits,Fresh Produce,Fruits,SunnyGrove,6.32,pack,True,0.3
+WH-FP-0014,Natural Herbs,Fresh Produce,Herbs,SunnyGrove,3.28,oz,True,0.3
+WH-FP-0015,Deluxe Fruits,Fresh Produce,Fruits,GoldenFields,10.83,each,True,0.3
+WH-FP-0016,Fresh Herbs,Fresh Produce,Herbs,GoldenFields,8.48,lb,True,0.3
+WH-FP-0017,Artisan Fruits,Fresh Produce,Fruits,QuickBite,4.78,box,True,0.3
+WH-FP-0018,Natural Fruits,Fresh Produce,Fruits,GoldenFields,12.8,each,True,0.3
+WH-FP-0019,Premium Fruits,Fresh Produce,Fruits,SunnyGrove,12.27,pack,True,0.3
+WH-FP-0020,Classic Vegetables,Fresh Produce,Vegetables,ValueMart,13.78,box,True,0.3
+WH-FP-0021,Classic Herbs,Fresh Produce,Herbs,GourmetPick,10.18,pack,True,0.3
+WH-FP-0022,Fresh Herbs,Fresh Produce,Herbs,QuickBite,4.71,lb,True,0.3
+WH-FP-0023,Traditional Herbs,Fresh Produce,Herbs,HomeComfort,4.68,box,True,0.3
+WH-FP-0024,Special Vegetables,Fresh Produce,Vegetables,GreenValley,6.59,lb,True,0.3
+WH-FP-0025,Gourmet Fruits,Fresh Produce,Fruits,HomeComfort,2.27,each,True,0.3
+WH-FP-0026,Fresh Fruits,Fresh Produce,Fruits,PremiumSelect,12.09,pack,True,0.3
+WH-FP-0027,Artisan Herbs,Fresh Produce,Herbs,ValueMart,6.34,pack,True,0.3
+WH-FP-0028,Traditional Herbs,Fresh Produce,Herbs,DailyEssentials,13.05,each,True,0.3
+WH-FP-0029,Organic Herbs,Fresh Produce,Herbs,OceanCatch,10.54,box,True,0.3
+WH-FP-0030,Natural Vegetables,Fresh Produce,Vegetables,MountainFresh,2.56,pack,True,0.3
+WH-FP-0031,Premium Fruits,Fresh Produce,Fruits,QuickBite,14.35,oz,True,0.3
+WH-FP-0032,Fresh Herbs,Fresh Produce,Herbs,MountainFresh,8.11,each,True,0.3
+WH-FP-0033,Traditional Herbs,Fresh Produce,Herbs,DailyEssentials,9.53,lb,True,0.3
+WH-FP-0034,Fresh Vegetables,Fresh Produce,Vegetables,MountainFresh,8.55,box,True,0.3
+WH-FP-0035,Natural Fruits,Fresh Produce,Fruits,PureLife,7.84,each,True,0.3
+WH-FP-0036,Deluxe Vegetables,Fresh Produce,Vegetables,GreenValley,4.35,lb,True,0.3
+WH-FP-0037,Organic Herbs,Fresh Produce,Herbs,ValueMart,11.25,each,True,0.3
+WH-FP-0038,Fresh Herbs,Fresh Produce,Herbs,MountainFresh,2.8,pack,True,0.3
+WH-FP-0039,Deluxe Herbs,Fresh Produce,Herbs,PremiumSelect,8.39,box,True,0.3
+WH-FP-0040,Traditional Vegetables,Fresh Produce,Vegetables,NaturesBest,11.57,lb,True,0.3
+WH-FP-0041,Artisan Herbs,Fresh Produce,Herbs,DailyEssentials,14.93,oz,True,0.3
+WH-FP-0042,Traditional Vegetables,Fresh Produce,Vegetables,GreenValley,7.32,lb,True,0.3
+WH-FP-0043,Natural Fruits,Fresh Produce,Fruits,ValueMart,1.29,box,True,0.3
+WH-FP-0044,Classic Fruits,Fresh Produce,Fruits,PureLife,1.1,each,True,0.3
+WH-FP-0045,Premium Fruits,Fresh Produce,Fruits,ValueMart,13.03,each,True,0.3
+WH-FP-0046,Deluxe Herbs,Fresh Produce,Herbs,NaturesBest,10.37,lb,True,0.3
+WH-FP-0047,Special Herbs,Fresh Produce,Herbs,PremiumSelect,9.07,lb,True,0.3
+WH-FP-0048,Artisan Vegetables,Fresh Produce,Vegetables,MountainFresh,3.67,each,True,0.3
+WH-FP-0049,Natural Herbs,Fresh Produce,Herbs,HealthyHarvest,6.93,pack,True,0.3
+WH-FP-0050,Organic Herbs,Fresh Produce,Herbs,FreshChoice,1.85,oz,True,0.3
+WH-D&E-0051,Classic Milk,Dairy & Eggs,Milk,NaturesBest,5.42,pack,True,0.1
+WH-D&E-0052,Fresh Cheese,Dairy & Eggs,Cheese,HealthyHarvest,7.01,lb,True,0.1
+WH-D&E-0053,Traditional Milk,Dairy & Eggs,Milk,QuickBite,3.76,box,True,0.1
+WH-D&E-0054,Classic Milk,Dairy & Eggs,Milk,ValueMart,4.99,pack,True,0.1
+WH-D&E-0055,Artisan Eggs,Dairy & Eggs,Eggs,NaturesBest,18.24,lb,True,0.1
+WH-D&E-0056,Artisan Eggs,Dairy & Eggs,Eggs,FreshChoice,6.77,pack,True,0.1
+WH-D&E-0057,Traditional Yogurt,Dairy & Eggs,Yogurt,HealthyHarvest,13.91,pack,True,0.1
+WH-D&E-0058,Deluxe Cheese,Dairy & Eggs,Cheese,NaturesBest,5.92,each,True,0.1
+WH-D&E-0059,Natural Milk,Dairy & Eggs,Milk,OceanCatch,3.03,box,True,0.1
+WH-D&E-0060,Traditional Eggs,Dairy & Eggs,Eggs,HomeComfort,4.83,box,True,0.1
+WH-D&E-0061,Fresh Milk,Dairy & Eggs,Milk,SunnyGrove,3.23,each,True,0.1
+WH-D&E-0062,Organic Cheese,Dairy & Eggs,Cheese,HealthyHarvest,18.95,box,True,0.1
+WH-D&E-0063,Special Cheese,Dairy & Eggs,Cheese,PureLife,2.72,each,True,0.1
+WH-D&E-0064,Special Eggs,Dairy & Eggs,Eggs,GoldenFields,12.17,oz,True,0.1
+WH-D&E-0065,Natural Yogurt,Dairy & Eggs,Yogurt,NaturesBest,6.3,pack,True,0.1
+WH-D&E-0066,Deluxe Cheese,Dairy & Eggs,Cheese,GoldenFields,10.23,each,True,0.1
+WH-D&E-0067,Special Milk,Dairy & Eggs,Milk,QuickBite,19.97,each,True,0.1
+WH-D&E-0068,Classic Milk,Dairy & Eggs,Milk,HomeComfort,11.11,lb,True,0.1
+WH-D&E-0069,Organic Yogurt,Dairy & Eggs,Yogurt,GreenValley,17.83,oz,True,0.1
+WH-D&E-0070,Gourmet Yogurt,Dairy & Eggs,Yogurt,PremiumSelect,17.01,oz,True,0.1
+WH-D&E-0071,Traditional Milk,Dairy & Eggs,Milk,GoldenFields,7.39,each,True,0.1
+WH-D&E-0072,Organic Cheese,Dairy & Eggs,Cheese,DailyEssentials,18.01,box,True,0.1
+WH-D&E-0073,Deluxe Cheese,Dairy & Eggs,Cheese,DailyEssentials,12.89,oz,True,0.1
+WH-D&E-0074,Deluxe Cheese,Dairy & Eggs,Cheese,GoldenFields,11.1,oz,True,0.1
+WH-D&E-0075,Artisan Milk,Dairy & Eggs,Milk,ValueMart,16.93,each,True,0.1
+WH-D&E-0076,Fresh Milk,Dairy & Eggs,Milk,GourmetPick,13.47,oz,True,0.1
+WH-D&E-0077,Gourmet Cheese,Dairy & Eggs,Cheese,OceanCatch,11.93,pack,True,0.1
+WH-D&E-0078,Organic Milk,Dairy & Eggs,Milk,ValueMart,19.01,lb,True,0.1
+WH-D&E-0079,Natural Milk,Dairy & Eggs,Milk,SunnyGrove,12.49,lb,True,0.1
+WH-D&E-0080,Premium Eggs,Dairy & Eggs,Eggs,PremiumSelect,7.55,each,True,0.1
+WH-D&E-0081,Classic Yogurt,Dairy & Eggs,Yogurt,NaturesBest,14.0,oz,True,0.1
+WH-D&E-0082,Fresh Eggs,Dairy & Eggs,Eggs,PureLife,18.66,lb,True,0.1
+WH-D&E-0083,Fresh Cheese,Dairy & Eggs,Cheese,MountainFresh,17.87,each,True,0.1
+WH-D&E-0084,Natural Cheese,Dairy & Eggs,Cheese,OceanCatch,16.08,pack,True,0.1
+WH-D&E-0085,Fresh Cheese,Dairy & Eggs,Cheese,DailyEssentials,16.17,each,True,0.1
+WH-D&E-0086,Premium Eggs,Dairy & Eggs,Eggs,SunnyGrove,17.45,lb,True,0.1
+WH-D&E-0087,Gourmet Cheese,Dairy & Eggs,Cheese,SunnyGrove,8.29,lb,True,0.1
+WH-D&E-0088,Classic Cheese,Dairy & Eggs,Cheese,FreshChoice,9.17,oz,True,0.1
+WH-D&E-0089,Deluxe Milk,Dairy & Eggs,Milk,MountainFresh,8.32,box,True,0.1
+WH-D&E-0090,Traditional Eggs,Dairy & Eggs,Eggs,GoldenFields,7.96,each,True,0.1
+WH-D&E-0091,Deluxe Milk,Dairy & Eggs,Milk,GreenValley,5.21,oz,True,0.1
+WH-D&E-0092,Special Milk,Dairy & Eggs,Milk,ValueMart,9.82,oz,True,0.1
+WH-D&E-0093,Traditional Eggs,Dairy & Eggs,Eggs,PureLife,4.08,box,True,0.1
+WH-D&E-0094,Premium Cheese,Dairy & Eggs,Cheese,DailyEssentials,14.76,each,True,0.1
+WH-D&E-0095,Artisan Cheese,Dairy & Eggs,Cheese,GourmetPick,3.26,oz,True,0.1
+WH-D&E-0096,Organic Yogurt,Dairy & Eggs,Yogurt,GoldenFields,14.96,oz,True,0.1
+WH-D&E-0097,Artisan Yogurt,Dairy & Eggs,Yogurt,GoldenFields,7.87,oz,True,0.1
+WH-D&E-0098,Artisan Cheese,Dairy & Eggs,Cheese,NaturesBest,13.97,pack,True,0.1
+WH-D&E-0099,Special Cheese,Dairy & Eggs,Cheese,PureLife,7.42,box,True,0.1
+WH-D&E-0100,Deluxe Milk,Dairy & Eggs,Milk,DailyEssentials,5.78,box,True,0.1
+WH-M&S-0101,Gourmet Pork,Meat & Seafood,Pork,QuickBite,24.9,lb,True,0.2
+WH-M&S-0102,Fresh Fish,Meat & Seafood,Fish,MountainFresh,34.65,oz,True,0.2
+WH-M&S-0103,Classic Pork,Meat & Seafood,Pork,ValueMart,35.28,lb,True,0.2
+WH-M&S-0104,Premium Chicken,Meat & Seafood,Chicken,PremiumSelect,7.08,pack,True,0.2
+WH-M&S-0105,Artisan Beef,Meat & Seafood,Beef,QuickBite,44.88,box,True,0.2
+WH-M&S-0106,Artisan Chicken,Meat & Seafood,Chicken,OceanCatch,27.25,lb,True,0.2
+WH-M&S-0107,Premium Chicken,Meat & Seafood,Chicken,GoldenFields,45.17,each,True,0.2
+WH-M&S-0108,Fresh Fish,Meat & Seafood,Fish,NaturesBest,41.18,box,True,0.2
+WH-M&S-0109,Traditional Fish,Meat & Seafood,Fish,FreshChoice,16.21,each,True,0.2
+WH-M&S-0110,Gourmet Fish,Meat & Seafood,Fish,PremiumSelect,35.04,box,True,0.2
+WH-M&S-0111,Gourmet Pork,Meat & Seafood,Pork,MountainFresh,32.57,box,True,0.2
+WH-M&S-0112,Traditional Fish,Meat & Seafood,Fish,SunnyGrove,25.07,lb,True,0.2
+WH-M&S-0113,Deluxe Fish,Meat & Seafood,Fish,QuickBite,38.83,oz,True,0.2
+WH-M&S-0114,Classic Fish,Meat & Seafood,Fish,GoldenFields,17.36,each,True,0.2
+WH-M&S-0115,Deluxe Pork,Meat & Seafood,Pork,NaturesBest,20.11,box,True,0.2
+WH-M&S-0116,Fresh Beef,Meat & Seafood,Beef,PremiumSelect,15.41,lb,True,0.2
+WH-M&S-0117,Artisan Chicken,Meat & Seafood,Chicken,ValueMart,23.34,box,True,0.2
+WH-M&S-0118,Premium Fish,Meat & Seafood,Fish,HealthyHarvest,14.31,pack,True,0.2
+WH-M&S-0119,Special Fish,Meat & Seafood,Fish,GreenValley,47.57,each,True,0.2
+WH-M&S-0120,Premium Fish,Meat & Seafood,Fish,QuickBite,47.42,oz,True,0.2
+WH-M&S-0121,Artisan Fish,Meat & Seafood,Fish,SunnyGrove,29.22,box,True,0.2
+WH-M&S-0122,Classic Chicken,Meat & Seafood,Chicken,QuickBite,17.28,pack,True,0.2
+WH-M&S-0123,Natural Beef,Meat & Seafood,Beef,HealthyHarvest,35.1,pack,True,0.2
+WH-M&S-0124,Gourmet Chicken,Meat & Seafood,Chicken,SunnyGrove,46.38,box,True,0.2
+WH-M&S-0125,Artisan Beef,Meat & Seafood,Beef,GreenValley,31.64,each,True,0.2
+WH-M&S-0126,Artisan Beef,Meat & Seafood,Beef,GoldenFields,11.11,pack,True,0.2
+WH-M&S-0127,Deluxe Chicken,Meat & Seafood,Chicken,FreshChoice,22.06,lb,True,0.2
+WH-M&S-0128,Natural Fish,Meat & Seafood,Fish,GourmetPick,39.26,pack,True,0.2
+WH-M&S-0129,Artisan Pork,Meat & Seafood,Pork,MountainFresh,16.35,each,True,0.2
+WH-M&S-0130,Traditional Fish,Meat & Seafood,Fish,FreshChoice,7.34,oz,True,0.2
+WH-M&S-0131,Organic Chicken,Meat & Seafood,Chicken,GoldenFields,40.16,each,True,0.2
+WH-M&S-0132,Classic Beef,Meat & Seafood,Beef,NaturesBest,42.77,box,True,0.2
+WH-M&S-0133,Fresh Chicken,Meat & Seafood,Chicken,NaturesBest,26.31,each,True,0.2
+WH-M&S-0134,Deluxe Chicken,Meat & Seafood,Chicken,QuickBite,39.51,lb,True,0.2
+WH-M&S-0135,Fresh Beef,Meat & Seafood,Beef,MountainFresh,48.41,each,True,0.2
+WH-M&S-0136,Deluxe Beef,Meat & Seafood,Beef,GreenValley,30.91,pack,True,0.2
+WH-M&S-0137,Classic Fish,Meat & Seafood,Fish,OceanCatch,8.42,lb,True,0.2
+WH-M&S-0138,Deluxe Beef,Meat & Seafood,Beef,OceanCatch,43.26,box,True,0.2
+WH-M&S-0139,Special Beef,Meat & Seafood,Beef,MountainFresh,40.22,oz,True,0.2
+WH-M&S-0140,Natural Fish,Meat & Seafood,Fish,GoldenFields,8.1,oz,True,0.2
+WH-M&S-0141,Artisan Beef,Meat & Seafood,Beef,SunnyGrove,42.0,each,True,0.2
+WH-M&S-0142,Gourmet Fish,Meat & Seafood,Fish,GourmetPick,36.83,pack,True,0.2
+WH-M&S-0143,Traditional Chicken,Meat & Seafood,Chicken,OceanCatch,48.45,oz,True,0.2
+WH-M&S-0144,Artisan Fish,Meat & Seafood,Fish,QuickBite,42.16,box,True,0.2
+WH-M&S-0145,Classic Pork,Meat & Seafood,Pork,GourmetPick,42.38,each,True,0.2
+WH-M&S-0146,Gourmet Pork,Meat & Seafood,Pork,GreenValley,15.97,pack,True,0.2
+WH-M&S-0147,Premium Fish,Meat & Seafood,Fish,GourmetPick,27.24,oz,True,0.2
+WH-M&S-0148,Classic Chicken,Meat & Seafood,Chicken,QuickBite,20.97,oz,True,0.2
+WH-M&S-0149,Special Pork,Meat & Seafood,Pork,DailyEssentials,36.55,oz,True,0.2
+WH-M&S-0150,Classic Beef,Meat & Seafood,Beef,HomeComfort,8.85,pack,True,0.2
+WH-B-0151,Classic Pastries,Bakery,Pastries,HomeComfort,17.88,pack,True,0.15
+WH-B-0152,Premium Pastries,Bakery,Pastries,MountainFresh,4.14,lb,True,0.15
+WH-B-0153,Classic Pastries,Bakery,Pastries,OceanCatch,9.04,box,True,0.15
+WH-B-0154,Traditional Pastries,Bakery,Pastries,QuickBite,14.21,pack,True,0.15
+WH-B-0155,Natural Cakes,Bakery,Cakes,HomeComfort,10.09,pack,True,0.15
+WH-B-0156,Deluxe Pastries,Bakery,Pastries,DailyEssentials,7.3,lb,True,0.15
+WH-B-0157,Traditional Pastries,Bakery,Pastries,ValueMart,23.87,lb,True,0.15
+WH-B-0158,Gourmet Bread,Bakery,Bread,NaturesBest,8.36,box,True,0.15
+WH-B-0159,Deluxe Cakes,Bakery,Cakes,PureLife,24.55,lb,True,0.15
+WH-B-0160,Natural Pastries,Bakery,Pastries,NaturesBest,6.13,each,True,0.15
+WH-B-0161,Fresh Cakes,Bakery,Cakes,HomeComfort,8.31,each,True,0.15
+WH-B-0162,Fresh Cakes,Bakery,Cakes,DailyEssentials,16.67,pack,True,0.15
+WH-B-0163,Premium Bread,Bakery,Bread,SunnyGrove,15.2,pack,True,0.15
+WH-B-0164,Natural Pastries,Bakery,Pastries,QuickBite,6.24,each,True,0.15
+WH-B-0165,Gourmet Pastries,Bakery,Pastries,SunnyGrove,4.62,each,True,0.15
+WH-B-0166,Organic Pastries,Bakery,Pastries,QuickBite,15.27,each,True,0.15
+WH-B-0167,Special Bread,Bakery,Bread,PremiumSelect,23.83,each,True,0.15
+WH-B-0168,Traditional Bread,Bakery,Bread,ValueMart,19.58,box,True,0.15
+WH-B-0169,Special Cakes,Bakery,Cakes,MountainFresh,7.19,box,True,0.15
+WH-B-0170,Gourmet Pastries,Bakery,Pastries,QuickBite,8.84,box,True,0.15
+WH-B-0171,Special Pastries,Bakery,Pastries,DailyEssentials,16.28,box,True,0.15
+WH-B-0172,Classic Cakes,Bakery,Cakes,ValueMart,16.39,oz,True,0.15
+WH-B-0173,Fresh Cakes,Bakery,Cakes,ValueMart,7.52,box,True,0.15
+WH-B-0174,Premium Bread,Bakery,Bread,PremiumSelect,11.4,box,True,0.15
+WH-B-0175,Premium Pastries,Bakery,Pastries,DailyEssentials,7.32,oz,True,0.15
+WH-B-0176,Gourmet Cakes,Bakery,Cakes,SunnyGrove,3.64,lb,True,0.15
+WH-B-0177,Special Pastries,Bakery,Pastries,MountainFresh,17.21,lb,True,0.15
+WH-B-0178,Traditional Pastries,Bakery,Pastries,ValueMart,7.17,lb,True,0.15
+WH-B-0179,Fresh Pastries,Bakery,Pastries,SunnyGrove,3.64,lb,True,0.15
+WH-B-0180,Special Pastries,Bakery,Pastries,PureLife,23.19,pack,True,0.15
+WH-B-0181,Deluxe Bread,Bakery,Bread,QuickBite,18.09,oz,True,0.15
+WH-B-0182,Gourmet Cakes,Bakery,Cakes,HomeComfort,12.07,box,True,0.15
+WH-B-0183,Artisan Bread,Bakery,Bread,GreenValley,18.89,box,True,0.15
+WH-B-0184,Organic Pastries,Bakery,Pastries,FreshChoice,7.27,box,True,0.15
+WH-B-0185,Deluxe Cakes,Bakery,Cakes,FreshChoice,15.25,lb,True,0.15
+WH-B-0186,Gourmet Pastries,Bakery,Pastries,HomeComfort,23.07,lb,True,0.15
+WH-B-0187,Gourmet Cakes,Bakery,Cakes,HealthyHarvest,24.29,pack,True,0.15
+WH-B-0188,Natural Pastries,Bakery,Pastries,HealthyHarvest,9.38,each,True,0.15
+WH-B-0189,Artisan Bread,Bakery,Bread,GourmetPick,17.95,oz,True,0.15
+WH-B-0190,Traditional Cakes,Bakery,Cakes,HealthyHarvest,2.84,each,True,0.15
+WH-B-0191,Natural Pastries,Bakery,Pastries,DailyEssentials,4.67,pack,True,0.15
+WH-B-0192,Premium Cakes,Bakery,Cakes,SunnyGrove,17.13,box,True,0.15
+WH-B-0193,Premium Pastries,Bakery,Pastries,HealthyHarvest,6.31,oz,True,0.15
+WH-B-0194,Gourmet Cakes,Bakery,Cakes,MountainFresh,16.38,each,True,0.15
+WH-B-0195,Traditional Bread,Bakery,Bread,DailyEssentials,5.01,oz,True,0.15
+WH-B-0196,Gourmet Pastries,Bakery,Pastries,GreenValley,4.79,box,True,0.15
+WH-B-0197,Fresh Bread,Bakery,Bread,OceanCatch,9.15,each,True,0.15
+WH-B-0198,Organic Cakes,Bakery,Cakes,HealthyHarvest,7.17,each,True,0.15
+WH-B-0199,Fresh Pastries,Bakery,Pastries,ValueMart,13.46,oz,True,0.15
+WH-B-0200,Deluxe Cakes,Bakery,Cakes,OceanCatch,11.56,pack,True,0.15
+WH-FF-0201,Gourmet Ice Cream,Frozen Foods,Ice Cream,NaturesBest,17.88,pack,False,0.25
+WH-FF-0202,Special Frozen Meals,Frozen Foods,Frozen Meals,GreenValley,16.72,lb,False,0.25
+WH-FF-0203,Artisan Frozen Meals,Frozen Foods,Frozen Meals,DailyEssentials,12.18,box,False,0.25
+WH-FF-0204,Premium Ice Cream,Frozen Foods,Ice Cream,SunnyGrove,10.64,oz,False,0.25
+WH-FF-0205,Gourmet Frozen Vegetables,Frozen Foods,Frozen Vegetables,PureLife,26.36,pack,False,0.25
+WH-FF-0206,Natural Frozen Vegetables,Frozen Foods,Frozen Vegetables,QuickBite,11.98,box,False,0.25
+WH-FF-0207,Natural Ice Cream,Frozen Foods,Ice Cream,QuickBite,26.48,lb,False,0.25
+WH-FF-0208,Classic Frozen Vegetables,Frozen Foods,Frozen Vegetables,HealthyHarvest,26.11,pack,False,0.25
+WH-FF-0209,Gourmet Frozen Meals,Frozen Foods,Frozen Meals,GourmetPick,22.04,pack,False,0.25
+WH-FF-0210,Fresh Ice Cream,Frozen Foods,Ice Cream,GoldenFields,16.37,each,False,0.25
+WH-FF-0211,Special Frozen Meals,Frozen Foods,Frozen Meals,HomeComfort,11.96,each,False,0.25
+WH-FF-0212,Traditional Ice Cream,Frozen Foods,Ice Cream,ValueMart,27.58,each,False,0.25
+WH-FF-0213,Artisan Frozen Vegetables,Frozen Foods,Frozen Vegetables,PremiumSelect,26.52,lb,False,0.25
+WH-FF-0214,Deluxe Frozen Meals,Frozen Foods,Frozen Meals,QuickBite,12.14,pack,False,0.25
+WH-FF-0215,Natural Frozen Vegetables,Frozen Foods,Frozen Vegetables,ValueMart,26.01,box,False,0.25
+WH-FF-0216,Gourmet Ice Cream,Frozen Foods,Ice Cream,GourmetPick,26.55,each,False,0.25
+WH-FF-0217,Classic Frozen Vegetables,Frozen Foods,Frozen Vegetables,ValueMart,20.04,oz,False,0.25
+WH-FF-0218,Organic Frozen Meals,Frozen Foods,Frozen Meals,OceanCatch,14.72,each,False,0.25
+WH-FF-0219,Organic Frozen Vegetables,Frozen Foods,Frozen Vegetables,OceanCatch,14.98,oz,False,0.25
+WH-FF-0220,Natural Frozen Meals,Frozen Foods,Frozen Meals,FreshChoice,24.5,oz,False,0.25
+WH-FF-0221,Artisan Ice Cream,Frozen Foods,Ice Cream,GourmetPick,6.93,box,False,0.25
+WH-FF-0222,Fresh Ice Cream,Frozen Foods,Ice Cream,PureLife,7.59,each,False,0.25
+WH-FF-0223,Artisan Frozen Vegetables,Frozen Foods,Frozen Vegetables,SunnyGrove,19.73,lb,False,0.25
+WH-FF-0224,Special Ice Cream,Frozen Foods,Ice Cream,GreenValley,6.86,pack,False,0.25
+WH-FF-0225,Gourmet Frozen Vegetables,Frozen Foods,Frozen Vegetables,DailyEssentials,9.89,each,False,0.25
+WH-FF-0226,Deluxe Ice Cream,Frozen Foods,Ice Cream,GreenValley,21.3,lb,False,0.25
+WH-FF-0227,Natural Frozen Meals,Frozen Foods,Frozen Meals,QuickBite,29.67,oz,False,0.25
+WH-FF-0228,Deluxe Frozen Vegetables,Frozen Foods,Frozen Vegetables,HealthyHarvest,15.33,oz,False,0.25
+WH-FF-0229,Gourmet Frozen Meals,Frozen Foods,Frozen Meals,HealthyHarvest,5.88,pack,False,0.25
+WH-FF-0230,Special Frozen Vegetables,Frozen Foods,Frozen Vegetables,GourmetPick,10.99,oz,False,0.25
+WH-FF-0231,Artisan Frozen Meals,Frozen Foods,Frozen Meals,SunnyGrove,10.41,box,False,0.25
+WH-FF-0232,Premium Frozen Vegetables,Frozen Foods,Frozen Vegetables,MountainFresh,27.59,pack,False,0.25
+WH-FF-0233,Classic Ice Cream,Frozen Foods,Ice Cream,MountainFresh,19.39,oz,False,0.25
+WH-FF-0234,Classic Frozen Meals,Frozen Foods,Frozen Meals,GoldenFields,19.76,lb,False,0.25
+WH-FF-0235,Premium Frozen Vegetables,Frozen Foods,Frozen Vegetables,ValueMart,11.34,pack,False,0.25
+WH-FF-0236,Natural Frozen Meals,Frozen Foods,Frozen Meals,PureLife,22.77,each,False,0.25
+WH-FF-0237,Artisan Ice Cream,Frozen Foods,Ice Cream,GourmetPick,7.74,lb,False,0.25
+WH-FF-0238,Natural Frozen Vegetables,Frozen Foods,Frozen Vegetables,GreenValley,17.33,oz,False,0.25
+WH-FF-0239,Gourmet Frozen Meals,Frozen Foods,Frozen Meals,DailyEssentials,29.12,oz,False,0.25
+WH-FF-0240,Natural Frozen Vegetables,Frozen Foods,Frozen Vegetables,SunnyGrove,24.71,pack,False,0.25
+WH-FF-0241,Classic Frozen Meals,Frozen Foods,Frozen Meals,PremiumSelect,26.22,pack,False,0.25
+WH-FF-0242,Organic Frozen Vegetables,Frozen Foods,Frozen Vegetables,GourmetPick,24.35,each,False,0.25
+WH-FF-0243,Organic Ice Cream,Frozen Foods,Ice Cream,HomeComfort,15.28,oz,False,0.25
+WH-FF-0244,Natural Frozen Vegetables,Frozen Foods,Frozen Vegetables,HealthyHarvest,5.93,lb,False,0.25
+WH-FF-0245,Special Ice Cream,Frozen Foods,Ice Cream,FreshChoice,26.87,box,False,0.25
+WH-FF-0246,Special Ice Cream,Frozen Foods,Ice Cream,GreenValley,8.98,each,False,0.25
+WH-FF-0247,Gourmet Frozen Vegetables,Frozen Foods,Frozen Vegetables,SunnyGrove,27.55,oz,False,0.25
+WH-FF-0248,Organic Frozen Vegetables,Frozen Foods,Frozen Vegetables,HealthyHarvest,6.77,each,False,0.25
+WH-FF-0249,Organic Ice Cream,Frozen Foods,Ice Cream,QuickBite,5.62,box,False,0.25
+WH-FF-0250,Gourmet Frozen Meals,Frozen Foods,Frozen Meals,HealthyHarvest,13.02,box,False,0.25
+WH-B-0251,Fresh Coffee,Beverages,Coffee,PureLife,17.82,each,False,0.2
+WH-B-0252,Artisan Coffee,Beverages,Coffee,PureLife,18.84,oz,False,0.2
+WH-B-0253,Natural Soft Drinks,Beverages,Soft Drinks,OceanCatch,5.13,pack,False,0.2
+WH-B-0254,Natural Juice,Beverages,Juice,SunnyGrove,2.89,oz,False,0.2
+WH-B-0255,Natural Tea,Beverages,Tea,GreenValley,2.15,oz,False,0.2
+WH-B-0256,Gourmet Juice,Beverages,Juice,ValueMart,2.74,lb,False,0.2
+WH-B-0257,Premium Tea,Beverages,Tea,FreshChoice,15.95,lb,False,0.2
+WH-B-0258,Special Juice,Beverages,Juice,MountainFresh,4.9,box,False,0.2
+WH-B-0259,Classic Juice,Beverages,Juice,PureLife,16.45,lb,False,0.2
+WH-B-0260,Fresh Water,Beverages,Water,MountainFresh,15.98,box,False,0.2
+WH-B-0261,Fresh Soft Drinks,Beverages,Soft Drinks,DailyEssentials,19.76,box,False,0.2
+WH-B-0262,Fresh Water,Beverages,Water,MountainFresh,3.09,each,False,0.2
+WH-B-0263,Natural Juice,Beverages,Juice,FreshChoice,16.01,lb,False,0.2
+WH-B-0264,Premium Tea,Beverages,Tea,GourmetPick,4.31,each,False,0.2
+WH-B-0265,Artisan Juice,Beverages,Juice,OceanCatch,11.0,each,False,0.2
+WH-B-0266,Natural Coffee,Beverages,Coffee,QuickBite,10.75,each,False,0.2
+WH-B-0267,Classic Coffee,Beverages,Coffee,HomeComfort,18.96,each,False,0.2
+WH-B-0268,Gourmet Tea,Beverages,Tea,DailyEssentials,13.22,each,False,0.2
+WH-B-0269,Artisan Soft Drinks,Beverages,Soft Drinks,QuickBite,9.1,each,False,0.2
+WH-B-0270,Gourmet Coffee,Beverages,Coffee,OceanCatch,2.4,each,False,0.2
+WH-B-0271,Fresh Water,Beverages,Water,PureLife,2.25,oz,False,0.2
+WH-B-0272,Special Tea,Beverages,Tea,GoldenFields,11.42,oz,False,0.2
+WH-B-0273,Traditional Coffee,Beverages,Coffee,PureLife,6.6,box,False,0.2
+WH-B-0274,Organic Tea,Beverages,Tea,HealthyHarvest,16.07,each,False,0.2
+WH-B-0275,Classic Tea,Beverages,Tea,OceanCatch,9.17,lb,False,0.2
+WH-B-0276,Gourmet Coffee,Beverages,Coffee,GourmetPick,8.58,each,False,0.2
+WH-B-0277,Natural Water,Beverages,Water,HealthyHarvest,13.64,oz,False,0.2
+WH-B-0278,Gourmet Juice,Beverages,Juice,GoldenFields,2.28,each,False,0.2
+WH-B-0279,Organic Soft Drinks,Beverages,Soft Drinks,HealthyHarvest,15.15,oz,False,0.2
+WH-B-0280,Premium Juice,Beverages,Juice,HomeComfort,12.14,box,False,0.2
+WH-B-0281,Organic Tea,Beverages,Tea,GourmetPick,8.81,pack,False,0.2
+WH-B-0282,Special Soft Drinks,Beverages,Soft Drinks,DailyEssentials,6.94,each,False,0.2
+WH-B-0283,Classic Tea,Beverages,Tea,HomeComfort,3.94,pack,False,0.2
+WH-B-0284,Organic Juice,Beverages,Juice,SunnyGrove,7.65,box,False,0.2
+WH-B-0285,Deluxe Water,Beverages,Water,ValueMart,11.91,pack,False,0.2
+WH-B-0286,Special Tea,Beverages,Tea,MountainFresh,12.66,box,False,0.2
+WH-B-0287,Deluxe Soft Drinks,Beverages,Soft Drinks,PureLife,1.55,oz,False,0.2
+WH-B-0288,Natural Water,Beverages,Water,GreenValley,7.67,lb,False,0.2
+WH-B-0289,Artisan Juice,Beverages,Juice,PureLife,2.32,each,False,0.2
+WH-B-0290,Traditional Soft Drinks,Beverages,Soft Drinks,OceanCatch,5.09,pack,False,0.2
+WH-B-0291,Fresh Coffee,Beverages,Coffee,GourmetPick,8.03,oz,False,0.2
+WH-B-0292,Organic Tea,Beverages,Tea,PureLife,17.78,lb,False,0.2
+WH-B-0293,Special Juice,Beverages,Juice,MountainFresh,1.95,each,False,0.2
+WH-B-0294,Artisan Water,Beverages,Water,QuickBite,10.23,pack,False,0.2
+WH-B-0295,Classic Coffee,Beverages,Coffee,DailyEssentials,15.34,each,False,0.2
+WH-B-0296,Organic Water,Beverages,Water,HealthyHarvest,6.38,box,False,0.2
+WH-B-0297,Deluxe Coffee,Beverages,Coffee,HomeComfort,1.86,pack,False,0.2
+WH-B-0298,Premium Tea,Beverages,Tea,FreshChoice,4.88,lb,False,0.2
+WH-B-0299,Deluxe Juice,Beverages,Juice,MountainFresh,6.5,each,False,0.2
+WH-B-0300,Artisan Soft Drinks,Beverages,Soft Drinks,QuickBite,4.34,pack,False,0.2
+WH-S&C-0301,Traditional Cookies,Snacks & Candy,Cookies,HomeComfort,12.83,oz,False,0.1
+WH-S&C-0302,Premium Chips,Snacks & Candy,Chips,HealthyHarvest,7.67,pack,False,0.1
+WH-S&C-0303,Natural Chips,Snacks & Candy,Chips,SunnyGrove,9.48,box,False,0.1
+WH-S&C-0304,Artisan Nuts,Snacks & Candy,Nuts,OceanCatch,5.76,pack,False,0.1
+WH-S&C-0305,Fresh Chips,Snacks & Candy,Chips,GourmetPick,12.42,box,False,0.1
+WH-S&C-0306,Natural Nuts,Snacks & Candy,Nuts,SunnyGrove,3.15,each,False,0.1
+WH-S&C-0307,Special Cookies,Snacks & Candy,Cookies,HealthyHarvest,7.21,each,False,0.1
+WH-S&C-0308,Deluxe Nuts,Snacks & Candy,Nuts,SunnyGrove,11.7,lb,False,0.1
+WH-S&C-0309,Fresh Candy,Snacks & Candy,Candy,MountainFresh,2.99,each,False,0.1
+WH-S&C-0310,Natural Cookies,Snacks & Candy,Cookies,GreenValley,6.56,lb,False,0.1
+WH-S&C-0311,Fresh Cookies,Snacks & Candy,Cookies,ValueMart,5.33,lb,False,0.1
+WH-S&C-0312,Organic Cookies,Snacks & Candy,Cookies,MountainFresh,4.3,pack,False,0.1
+WH-S&C-0313,Special Nuts,Snacks & Candy,Nuts,MountainFresh,11.88,pack,False,0.1
+WH-S&C-0314,Natural Candy,Snacks & Candy,Candy,SunnyGrove,3.96,each,False,0.1
+WH-S&C-0315,Deluxe Nuts,Snacks & Candy,Nuts,QuickBite,12.35,box,False,0.1
+WH-S&C-0316,Traditional Chips,Snacks & Candy,Chips,GourmetPick,2.96,pack,False,0.1
+WH-S&C-0317,Premium Nuts,Snacks & Candy,Nuts,FreshChoice,6.79,oz,False,0.1
+WH-S&C-0318,Organic Chips,Snacks & Candy,Chips,GoldenFields,10.0,box,False,0.1
+WH-S&C-0319,Special Nuts,Snacks & Candy,Nuts,QuickBite,9.21,each,False,0.1
+WH-S&C-0320,Special Nuts,Snacks & Candy,Nuts,GreenValley,10.47,oz,False,0.1
+WH-S&C-0321,Fresh Nuts,Snacks & Candy,Nuts,HomeComfort,14.45,pack,False,0.1
+WH-S&C-0322,Natural Chips,Snacks & Candy,Chips,MountainFresh,14.77,each,False,0.1
+WH-S&C-0323,Classic Cookies,Snacks & Candy,Cookies,FreshChoice,11.2,pack,False,0.1
+WH-S&C-0324,Natural Cookies,Snacks & Candy,Cookies,GourmetPick,13.93,pack,False,0.1
+WH-S&C-0325,Natural Nuts,Snacks & Candy,Nuts,MountainFresh,10.83,each,False,0.1
+WH-S&C-0326,Natural Candy,Snacks & Candy,Candy,ValueMart,3.23,pack,False,0.1
+WH-S&C-0327,Special Candy,Snacks & Candy,Candy,DailyEssentials,13.35,oz,False,0.1
+WH-S&C-0328,Fresh Chips,Snacks & Candy,Chips,PureLife,13.92,oz,False,0.1
+WH-S&C-0329,Special Nuts,Snacks & Candy,Nuts,PremiumSelect,11.21,each,False,0.1
+WH-S&C-0330,Artisan Candy,Snacks & Candy,Candy,HomeComfort,10.37,oz,False,0.1
+WH-S&C-0331,Traditional Cookies,Snacks & Candy,Cookies,GoldenFields,3.21,pack,False,0.1
+WH-S&C-0332,Natural Candy,Snacks & Candy,Candy,FreshChoice,6.02,lb,False,0.1
+WH-S&C-0333,Gourmet Candy,Snacks & Candy,Candy,MountainFresh,4.5,lb,False,0.1
+WH-S&C-0334,Deluxe Cookies,Snacks & Candy,Cookies,ValueMart,12.98,each,False,0.1
+WH-S&C-0335,Natural Chips,Snacks & Candy,Chips,GoldenFields,13.39,box,False,0.1
+WH-S&C-0336,Artisan Cookies,Snacks & Candy,Cookies,PureLife,4.01,lb,False,0.1
+WH-S&C-0337,Gourmet Cookies,Snacks & Candy,Cookies,OceanCatch,2.57,oz,False,0.1
+WH-S&C-0338,Special Cookies,Snacks & Candy,Cookies,QuickBite,5.7,pack,False,0.1
+WH-S&C-0339,Classic Cookies,Snacks & Candy,Cookies,HomeComfort,6.02,pack,False,0.1
+WH-S&C-0340,Special Cookies,Snacks & Candy,Cookies,GourmetPick,14.8,pack,False,0.1
+WH-S&C-0341,Artisan Candy,Snacks & Candy,Candy,MountainFresh,8.54,pack,False,0.1
+WH-S&C-0342,Classic Cookies,Snacks & Candy,Cookies,SunnyGrove,12.42,lb,False,0.1
+WH-S&C-0343,Gourmet Candy,Snacks & Candy,Candy,FreshChoice,13.36,box,False,0.1
+WH-S&C-0344,Traditional Chips,Snacks & Candy,Chips,OceanCatch,13.07,oz,False,0.1
+WH-S&C-0345,Fresh Chips,Snacks & Candy,Chips,MountainFresh,5.55,box,False,0.1
+WH-S&C-0346,Artisan Cookies,Snacks & Candy,Cookies,SunnyGrove,3.19,lb,False,0.1
+WH-S&C-0347,Natural Nuts,Snacks & Candy,Nuts,GreenValley,14.1,pack,False,0.1
+WH-S&C-0348,Traditional Chips,Snacks & Candy,Chips,HealthyHarvest,6.86,pack,False,0.1
+WH-S&C-0349,Classic Chips,Snacks & Candy,Chips,GourmetPick,2.37,each,False,0.1
+WH-S&C-0350,Fresh Candy,Snacks & Candy,Candy,MountainFresh,3.79,oz,False,0.1
+WH-PS-0351,Fresh Oils,Pantry Staples,Oils,OceanCatch,19.21,pack,False,0.05
+WH-PS-0352,Premium Oils,Pantry Staples,Oils,PureLife,22.74,each,False,0.05
+WH-PS-0353,Fresh Canned Goods,Pantry Staples,Canned Goods,NaturesBest,14.17,box,False,0.05
+WH-PS-0354,Organic Spices,Pantry Staples,Spices,HealthyHarvest,19.63,lb,False,0.05
+WH-PS-0355,Premium Canned Goods,Pantry Staples,Canned Goods,ValueMart,6.72,box,False,0.05
+WH-PS-0356,Organic Oils,Pantry Staples,Oils,ValueMart,21.08,pack,False,0.05
+WH-PS-0357,Premium Spices,Pantry Staples,Spices,HomeComfort,16.17,box,False,0.05
+WH-PS-0358,Fresh Rice,Pantry Staples,Rice,OceanCatch,7.99,each,False,0.05
+WH-PS-0359,Classic Spices,Pantry Staples,Spices,GourmetPick,14.7,lb,False,0.05
+WH-PS-0360,Natural Pasta,Pantry Staples,Pasta,HomeComfort,2.62,box,False,0.05
+WH-PS-0361,Traditional Spices,Pantry Staples,Spices,HomeComfort,14.3,pack,False,0.05
+WH-PS-0362,Artisan Oils,Pantry Staples,Oils,FreshChoice,24.54,oz,False,0.05
+WH-PS-0363,Organic Pasta,Pantry Staples,Pasta,GourmetPick,9.28,each,False,0.05
+WH-PS-0364,Natural Spices,Pantry Staples,Spices,OceanCatch,4.2,oz,False,0.05
+WH-PS-0365,Fresh Spices,Pantry Staples,Spices,GourmetPick,20.93,pack,False,0.05
+WH-PS-0366,Fresh Oils,Pantry Staples,Oils,GoldenFields,20.48,each,False,0.05
+WH-PS-0367,Deluxe Oils,Pantry Staples,Oils,FreshChoice,5.84,lb,False,0.05
+WH-PS-0368,Deluxe Pasta,Pantry Staples,Pasta,GourmetPick,13.37,box,False,0.05
+WH-PS-0369,Premium Oils,Pantry Staples,Oils,DailyEssentials,19.08,lb,False,0.05
+WH-PS-0370,Premium Canned Goods,Pantry Staples,Canned Goods,GourmetPick,21.78,oz,False,0.05
+WH-PS-0371,Natural Canned Goods,Pantry Staples,Canned Goods,ValueMart,11.49,pack,False,0.05
+WH-PS-0372,Artisan Oils,Pantry Staples,Oils,GreenValley,9.14,lb,False,0.05
+WH-PS-0373,Gourmet Oils,Pantry Staples,Oils,OceanCatch,9.82,box,False,0.05
+WH-PS-0374,Organic Canned Goods,Pantry Staples,Canned Goods,MountainFresh,18.45,each,False,0.05
+WH-PS-0375,Fresh Oils,Pantry Staples,Oils,PureLife,14.09,oz,False,0.05
+WH-PS-0376,Natural Pasta,Pantry Staples,Pasta,ValueMart,16.86,oz,False,0.05
+WH-PS-0377,Artisan Oils,Pantry Staples,Oils,PureLife,5.0,pack,False,0.05
+WH-PS-0378,Premium Canned Goods,Pantry Staples,Canned Goods,QuickBite,18.44,oz,False,0.05
+WH-PS-0379,Deluxe Spices,Pantry Staples,Spices,HealthyHarvest,16.35,each,False,0.05
+WH-PS-0380,Artisan Pasta,Pantry Staples,Pasta,GoldenFields,9.72,lb,False,0.05
+WH-PS-0381,Special Pasta,Pantry Staples,Pasta,PremiumSelect,17.27,pack,False,0.05
+WH-PS-0382,Organic Pasta,Pantry Staples,Pasta,PremiumSelect,6.66,oz,False,0.05
+WH-PS-0383,Special Canned Goods,Pantry Staples,Canned Goods,HealthyHarvest,1.78,lb,False,0.05
+WH-PS-0384,Natural Oils,Pantry Staples,Oils,GourmetPick,11.65,each,False,0.05
+WH-PS-0385,Traditional Spices,Pantry Staples,Spices,PremiumSelect,9.81,oz,False,0.05
+WH-PS-0386,Organic Canned Goods,Pantry Staples,Canned Goods,NaturesBest,1.62,lb,False,0.05
+WH-PS-0387,Artisan Oils,Pantry Staples,Oils,HomeComfort,22.93,each,False,0.05
+WH-PS-0388,Deluxe Canned Goods,Pantry Staples,Canned Goods,MountainFresh,17.9,lb,False,0.05
+WH-PS-0389,Gourmet Spices,Pantry Staples,Spices,DailyEssentials,5.8,lb,False,0.05
+WH-PS-0390,Fresh Pasta,Pantry Staples,Pasta,QuickBite,22.57,pack,False,0.05
+WH-PS-0391,Natural Pasta,Pantry Staples,Pasta,MountainFresh,17.03,each,False,0.05
+WH-PS-0392,Deluxe Spices,Pantry Staples,Spices,HomeComfort,22.39,lb,False,0.05
+WH-PS-0393,Natural Rice,Pantry Staples,Rice,MountainFresh,13.21,each,False,0.05
+WH-PS-0394,Fresh Rice,Pantry Staples,Rice,MountainFresh,6.68,pack,False,0.05
+WH-PS-0395,Traditional Pasta,Pantry Staples,Pasta,GourmetPick,14.73,pack,False,0.05
+WH-PS-0396,Special Spices,Pantry Staples,Spices,PremiumSelect,22.22,each,False,0.05
+WH-PS-0397,Gourmet Canned Goods,Pantry Staples,Canned Goods,HealthyHarvest,13.62,pack,False,0.05
+WH-PS-0398,Fresh Spices,Pantry Staples,Spices,ValueMart,24.34,each,False,0.05
+WH-PS-0399,Traditional Oils,Pantry Staples,Oils,QuickBite,9.27,box,False,0.05
+WH-PS-0400,Fresh Spices,Pantry Staples,Spices,PremiumSelect,11.38,each,False,0.05
+WH-H-0401,Fresh Cleaning,Household,Cleaning,HomeComfort,11.21,lb,False,0.05
+WH-H-0402,Classic Paper Products,Household,Paper Products,GreenValley,12.34,box,False,0.05
+WH-H-0403,Organic Paper Products,Household,Paper Products,SunnyGrove,9.77,box,False,0.05
+WH-H-0404,Deluxe Paper Products,Household,Paper Products,PremiumSelect,19.59,each,False,0.05
+WH-H-0405,Fresh Laundry,Household,Laundry,GoldenFields,18.98,box,False,0.05
+WH-H-0406,Special Cleaning,Household,Cleaning,PremiumSelect,22.46,box,False,0.05
+WH-H-0407,Special Paper Products,Household,Paper Products,SunnyGrove,4.11,each,False,0.05
+WH-H-0408,Special Cleaning,Household,Cleaning,FreshChoice,10.15,lb,False,0.05
+WH-H-0409,Special Laundry,Household,Laundry,HealthyHarvest,20.25,pack,False,0.05
+WH-H-0410,Deluxe Laundry,Household,Laundry,HomeComfort,20.33,oz,False,0.05
+WH-H-0411,Artisan Paper Products,Household,Paper Products,NaturesBest,11.03,each,False,0.05
+WH-H-0412,Fresh Laundry,Household,Laundry,FreshChoice,14.87,pack,False,0.05
+WH-H-0413,Natural Paper Products,Household,Paper Products,NaturesBest,19.38,oz,False,0.05
+WH-H-0414,Natural Laundry,Household,Laundry,GourmetPick,29.34,lb,False,0.05
+WH-H-0415,Traditional Paper Products,Household,Paper Products,HomeComfort,5.87,lb,False,0.05
+WH-H-0416,Deluxe Paper Products,Household,Paper Products,ValueMart,15.14,lb,False,0.05
+WH-H-0417,Deluxe Cleaning,Household,Cleaning,FreshChoice,28.53,box,False,0.05
+WH-H-0418,Fresh Paper Products,Household,Paper Products,NaturesBest,24.96,box,False,0.05
+WH-H-0419,Classic Laundry,Household,Laundry,GourmetPick,23.6,pack,False,0.05
+WH-H-0420,Gourmet Laundry,Household,Laundry,QuickBite,26.74,pack,False,0.05
+WH-H-0421,Artisan Cleaning,Household,Cleaning,ValueMart,16.65,lb,False,0.05
+WH-H-0422,Natural Cleaning,Household,Cleaning,PureLife,4.31,oz,False,0.05
+WH-H-0423,Gourmet Paper Products,Household,Paper Products,PureLife,10.72,each,False,0.05
+WH-H-0424,Fresh Cleaning,Household,Cleaning,HealthyHarvest,26.83,oz,False,0.05
+WH-H-0425,Premium Paper Products,Household,Paper Products,GourmetPick,13.82,box,False,0.05
+WH-H-0426,Natural Laundry,Household,Laundry,NaturesBest,17.94,each,False,0.05
+WH-H-0427,Gourmet Paper Products,Household,Paper Products,HomeComfort,23.64,oz,False,0.05
+WH-H-0428,Special Laundry,Household,Laundry,GoldenFields,6.21,each,False,0.05
+WH-H-0429,Natural Paper Products,Household,Paper Products,GourmetPick,18.06,oz,False,0.05
+WH-H-0430,Special Cleaning,Household,Cleaning,NaturesBest,16.75,box,False,0.05
+WH-H-0431,Premium Cleaning,Household,Cleaning,FreshChoice,6.7,oz,False,0.05
+WH-H-0432,Gourmet Paper Products,Household,Paper Products,HomeComfort,7.02,box,False,0.05
+WH-H-0433,Special Cleaning,Household,Cleaning,GourmetPick,11.6,pack,False,0.05
+WH-H-0434,Deluxe Laundry,Household,Laundry,OceanCatch,19.03,box,False,0.05
+WH-H-0435,Gourmet Laundry,Household,Laundry,HomeComfort,22.14,oz,False,0.05
+WH-H-0436,Premium Paper Products,Household,Paper Products,SunnyGrove,12.95,each,False,0.05
+WH-H-0437,Deluxe Paper Products,Household,Paper Products,PureLife,24.51,each,False,0.05
+WH-H-0438,Deluxe Laundry,Household,Laundry,QuickBite,29.11,box,False,0.05
+WH-H-0439,Premium Laundry,Household,Laundry,NaturesBest,18.76,lb,False,0.05
+WH-H-0440,Special Laundry,Household,Laundry,GoldenFields,23.91,pack,False,0.05
+WH-H-0441,Classic Cleaning,Household,Cleaning,SunnyGrove,3.85,each,False,0.05
+WH-H-0442,Gourmet Cleaning,Household,Cleaning,FreshChoice,11.47,lb,False,0.05
+WH-H-0443,Classic Paper Products,Household,Paper Products,OceanCatch,14.08,box,False,0.05
+WH-H-0444,Premium Paper Products,Household,Paper Products,SunnyGrove,22.06,box,False,0.05
+WH-H-0445,Natural Cleaning,Household,Cleaning,HomeComfort,29.95,pack,False,0.05
+WH-H-0446,Natural Laundry,Household,Laundry,HealthyHarvest,28.83,pack,False,0.05
+WH-H-0447,Traditional Laundry,Household,Laundry,GourmetPick,12.57,oz,False,0.05
+WH-H-0448,Classic Laundry,Household,Laundry,QuickBite,28.85,oz,False,0.05
+WH-H-0449,Classic Laundry,Household,Laundry,DailyEssentials,28.42,oz,False,0.05
+WH-H-0450,Classic Paper Products,Household,Paper Products,OceanCatch,21.64,pack,False,0.05
+WH-PC-0451,Natural Cosmetics,Personal Care,Cosmetics,QuickBite,23.3,oz,False,0.1
+WH-PC-0452,Special Cosmetics,Personal Care,Cosmetics,ValueMart,27.71,pack,False,0.1
+WH-PC-0453,Natural Cosmetics,Personal Care,Cosmetics,SunnyGrove,38.28,lb,False,0.1
+WH-PC-0454,Deluxe Cosmetics,Personal Care,Cosmetics,FreshChoice,38.3,each,False,0.1
+WH-PC-0455,Gourmet Cosmetics,Personal Care,Cosmetics,GreenValley,26.93,pack,False,0.1
+WH-PC-0456,Traditional Toiletries,Personal Care,Toiletries,NaturesBest,12.3,box,False,0.1
+WH-PC-0457,Fresh Hair Care,Personal Care,Hair Care,DailyEssentials,6.15,box,False,0.1
+WH-PC-0458,Premium Toiletries,Personal Care,Toiletries,NaturesBest,27.45,box,False,0.1
+WH-PC-0459,Classic Toiletries,Personal Care,Toiletries,GoldenFields,3.99,pack,False,0.1
+WH-PC-0460,Gourmet Cosmetics,Personal Care,Cosmetics,OceanCatch,5.82,lb,False,0.1
+WH-PC-0461,Fresh Toiletries,Personal Care,Toiletries,HomeComfort,17.46,pack,False,0.1
+WH-PC-0462,Classic Cosmetics,Personal Care,Cosmetics,GoldenFields,30.72,oz,False,0.1
+WH-PC-0463,Premium Cosmetics,Personal Care,Cosmetics,DailyEssentials,36.5,each,False,0.1
+WH-PC-0464,Classic Hair Care,Personal Care,Hair Care,PureLife,22.34,each,False,0.1
+WH-PC-0465,Fresh Toiletries,Personal Care,Toiletries,HealthyHarvest,37.49,each,False,0.1
+WH-PC-0466,Gourmet Cosmetics,Personal Care,Cosmetics,MountainFresh,9.08,oz,False,0.1
+WH-PC-0467,Deluxe Toiletries,Personal Care,Toiletries,FreshChoice,23.58,each,False,0.1
+WH-PC-0468,Gourmet Cosmetics,Personal Care,Cosmetics,DailyEssentials,39.59,box,False,0.1
+WH-PC-0469,Fresh Hair Care,Personal Care,Hair Care,QuickBite,34.34,pack,False,0.1
+WH-PC-0470,Organic Cosmetics,Personal Care,Cosmetics,NaturesBest,14.57,pack,False,0.1
+WH-PC-0471,Fresh Hair Care,Personal Care,Hair Care,DailyEssentials,2.54,oz,False,0.1
+WH-PC-0472,Classic Cosmetics,Personal Care,Cosmetics,PureLife,8.67,pack,False,0.1
+WH-PC-0473,Natural Cosmetics,Personal Care,Cosmetics,HomeComfort,5.3,each,False,0.1
+WH-PC-0474,Gourmet Toiletries,Personal Care,Toiletries,PremiumSelect,14.3,lb,False,0.1
+WH-PC-0475,Artisan Toiletries,Personal Care,Toiletries,DailyEssentials,10.95,oz,False,0.1
+WH-PC-0476,Special Cosmetics,Personal Care,Cosmetics,DailyEssentials,29.47,each,False,0.1
+WH-PC-0477,Natural Cosmetics,Personal Care,Cosmetics,GoldenFields,28.33,each,False,0.1
+WH-PC-0478,Gourmet Hair Care,Personal Care,Hair Care,ValueMart,13.66,pack,False,0.1
+WH-PC-0479,Deluxe Hair Care,Personal Care,Hair Care,HomeComfort,28.23,oz,False,0.1
+WH-PC-0480,Classic Cosmetics,Personal Care,Cosmetics,PureLife,10.33,lb,False,0.1
+WH-PC-0481,Gourmet Cosmetics,Personal Care,Cosmetics,PremiumSelect,30.41,box,False,0.1
+WH-PC-0482,Traditional Cosmetics,Personal Care,Cosmetics,HealthyHarvest,36.69,box,False,0.1
+WH-PC-0483,Classic Hair Care,Personal Care,Hair Care,SunnyGrove,30.95,box,False,0.1
+WH-PC-0484,Gourmet Toiletries,Personal Care,Toiletries,HomeComfort,22.07,oz,False,0.1
+WH-PC-0485,Special Toiletries,Personal Care,Toiletries,GreenValley,6.26,box,False,0.1
+WH-PC-0486,Special Hair Care,Personal Care,Hair Care,NaturesBest,22.39,lb,False,0.1
+WH-PC-0487,Traditional Cosmetics,Personal Care,Cosmetics,SunnyGrove,18.79,lb,False,0.1
+WH-PC-0488,Gourmet Hair Care,Personal Care,Hair Care,PureLife,5.46,box,False,0.1
+WH-PC-0489,Premium Cosmetics,Personal Care,Cosmetics,MountainFresh,19.23,box,False,0.1
+WH-PC-0490,Special Cosmetics,Personal Care,Cosmetics,QuickBite,4.19,pack,False,0.1
+WH-PC-0491,Deluxe Hair Care,Personal Care,Hair Care,MountainFresh,29.48,pack,False,0.1
+WH-PC-0492,Premium Cosmetics,Personal Care,Cosmetics,SunnyGrove,30.34,box,False,0.1
+WH-PC-0493,Artisan Toiletries,Personal Care,Toiletries,FreshChoice,15.09,each,False,0.1
+WH-PC-0494,Organic Hair Care,Personal Care,Hair Care,FreshChoice,39.47,pack,False,0.1
+WH-PC-0495,Artisan Toiletries,Personal Care,Toiletries,DailyEssentials,8.84,lb,False,0.1
+WH-PC-0496,Artisan Hair Care,Personal Care,Hair Care,OceanCatch,16.23,pack,False,0.1
+WH-PC-0497,Artisan Cosmetics,Personal Care,Cosmetics,SunnyGrove,16.27,box,False,0.1
+WH-PC-0498,Natural Toiletries,Personal Care,Toiletries,GoldenFields,6.51,box,False,0.1
+WH-PC-0499,Fresh Cosmetics,Personal Care,Cosmetics,HomeComfort,29.66,lb,False,0.1
+WH-PC-0500,Premium Toiletries,Personal Care,Toiletries,MountainFresh,39.18,pack,False,0.1
