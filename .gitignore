@@ -66,6 +66,12 @@ frontend/dist/
 frontend/build/
 frontend/.next/
 frontend/.cache/
+frontend/app/dist/
+frontend/app/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.local
 
 # OS
 .DS_Store
